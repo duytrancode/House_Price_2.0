@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hệ Thống Dự Đoán Giá Nhà - AI</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --accent-color: #e74c3c;
+            --success-color: #27ae60;
+            --warning-color: #f39c12;
+            --light-bg: #ecf0f1;
+            --dark-text: #2c3e50;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: var(--dark-text);
+        }
+
+        .main-container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            margin: 20px auto;
+            max-width: 1200px;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 30px;
+            border-radius: 20px 20px 0 0;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-bottom: 30px;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .card-header {
+            background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+            color: white;
+            border-radius: 15px 15px 0 0 !important;
+            padding: 20px;
+            font-weight: 600;
+            font-size: 1.2rem;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+            border: none;
+            border-radius: 25px;
+            padding: 12px 30px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(52, 152, 219, 0.3);
+        }
+
+        .btn-success {
+            background: linear-gradient(135deg, var(--success-color), #2ecc71);
+            border: none;
+            border-radius: 25px;
+            padding: 12px 30px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .btn-success:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(39, 174, 96, 0.3);
+        }
+
+        .form-control, .form-select {
+            border-radius: 10px;
+            border: 2px solid #e9ecef;
+            padding: 12px 15px;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus, .form-select:focus {
+            border-color: var(--secondary-color);
+            box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+        }
+
+        .location-group {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-left: 4px solid var(--secondary-color);
+        }
+
+        .location-group h6 {
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .form-select:disabled {
+            background-color: #e9ecef;
+            opacity: 0.6;
+        }
+
+        .price-info {
+            background: linear-gradient(135deg, #28a745, #20c997);
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            margin-top: 10px;
+            display: none;
+        }
+
+        .prediction-result {
+            background: linear-gradient(135deg, var(--success-color), #2ecc71);
+            color: white;
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-top: 20px;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .spinner-border {
+            width: 3rem;
+            height: 3rem;
+        }
+
+        .alert {
+            border-radius: 10px;
+            border: none;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="main-container">
+            <!-- Header -->
+            <div class="header">
+                <h1><i class="fas fa-home"></i> Hệ Thống Dự Đoán Giá Nhà</h1>
+                <p>Ứng dụng AI học máy để dự đoán giá bất động sản chính xác</p>
+            </div>
+
+            <!-- Content -->
+            <div class="content">
+                <!-- Prediction Form -->
+                <div class="card">
+                    <div class="card-header">
+                        <i class="fas fa-calculator"></i> Dự Đoán Giá Nhà
+                    </div>
+                    <div class="card-body">
+                        <form id="predictionForm">
+                            <!-- Location Information -->
+                            <div class="location-group">
+                                <h6><i class="fas fa-map-marker-alt"></i> Thông Tin Vị Trí</h6>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="mb-3">
+                                            <label for="province" class="form-label">Tỉnh/Thành phố</label>
+                                            <select class="form-select" id="province" name="province" required>
+                                                <option value="">Chọn Tỉnh/Thành phố</option>
+                                                {% for province in provinces %}
+                                                <option value="{{ province }}">{{ province }}</option>
+                                                {% endfor %}
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="mb-3">
+                                            <label for="district" class="form-label">Quận/Huyện</label>
+                                            <select class="form-select" id="district" name="district" required disabled>
+                                                <option value="">Chọn Quận/Huyện</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="mb-3">
+                                            <label for="giaTrungBinh" class="form-label">Giá trung bình khu vực (triệu/m²)</label>
+                                            <input type="number" class="form-control" id="giaTrungBinh" name="giaTrungBinh" 
+                                                   placeholder="Tự động điền" min="10" max="1000" step="0.1" required>
+                                            <div id="priceInfo" class="price-info">
+                                                <i class="fas fa-info-circle"></i> Giá trung bình được tự động cập nhật
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="mb-3">
+                                            <label for="address" class="form-label">Địa chỉ cụ thể</label>
+                                            <input type="text" class="form-control" id="address" name="address" 
+                                                   placeholder="Ví dụ: 123 Nguyễn Huệ, P. Bến Nghé" required>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h5 class="mb-3">Thông Tin Cơ Bản</h5>
+                                    
+                                    <div class="mb-3">
+                                        <label for="typeHouse" class="form-label">Loại nhà</label>
+                                        <select class="form-select" id="typeHouse" name="typeHouse" required>
+                                            <option value="">Chọn loại nhà</option>
+                                            {% for type in unique_values.type_house %}
+                                            <option value="{{ type }}">{{ type }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="area" class="form-label">Diện tích (m²)</label>
+                                        <input type="number" class="form-control" id="area" name="area" 
+                                               placeholder="Ví dụ: 80" min="10" max="1000" required>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="frontage" class="form-label">Mặt tiền (m)</label>
+                                        <input type="number" class="form-control" id="frontage" name="frontage" 
+                                               placeholder="Ví dụ: 5" min="1" max="50" step="0.1" required>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <h5 class="mb-3">Thông Tin Chi Tiết</h5>
+                                    
+                                    <div class="mb-3">
+                                        <label for="floors" class="form-label">Số tầng</label>
+                                        <input type="number" class="form-control" id="floors" name="floors" 
+                                               placeholder="Ví dụ: 2" min="0" max="20" required>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="bedrooms" class="form-label">Số phòng ngủ</label>
+                                        <input type="number" class="form-control" id="bedrooms" name="bedrooms" 
+                                               placeholder="Ví dụ: 3" min="1" max="10" required>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="bathrooms" class="form-label">Số phòng tắm</label>
+                                        <input type="number" class="form-control" id="bathrooms" name="bathrooms" 
+                                               placeholder="Ví dụ: 2" min="1" max="10" required>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="yearBuilt" class="form-label">Năm xây dựng</label>
+                                        <input type="number" class="form-control" id="yearBuilt" name="yearBuilt" 
+                                               placeholder="Ví dụ: 2020" min="1990" max="2024" required>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <label for="legalStatus" class="form-label">Tình trạng pháp lý</label>
+                                        <select class="form-select" id="legalStatus" name="legalStatus" required>
+                                            <option value="">Chọn tình trạng</option>
+                                            {% for status in unique_values.legal_status %}
+                                            <option value="{{ status }}">{{ status }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <label for="roadType" class="form-label">Loại đường</label>
+                                        <select class="form-select" id="roadType" name="roadType" required>
+                                            <option value="">Chọn loại đường</option>
+                                            {% for road in unique_values.road_type %}
+                                            <option value="{{ road }}">{{ road }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Nội thất -->
+                            <div class="location-group">
+                                <h6><i class="fas fa-couch"></i> Nội Thất & Thiết Bị</h6>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="mb-3">
+                                            <label for="airConditioner" class="form-label">
+                                                <i class="fas fa-snowflake"></i> Số lượng máy lạnh
+                                            </label>
+                                            <input type="number" class="form-control" id="airConditioner" name="airConditioner" 
+                                                   placeholder="0" min="0" max="10" value="0" required>
+                                            <small class="text-muted">Ảnh hưởng cao đến giá</small>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="mb-3">
+                                            <label for="washingMachine" class="form-label">
+                                                <i class="fas fa-tshirt"></i> Số lượng máy giặt
+                                            </label>
+                                            <input type="number" class="form-control" id="washingMachine" name="washingMachine" 
+                                                   placeholder="0" min="0" max="5" value="0" required>
+                                            <small class="text-muted">Ảnh hưởng vừa phải</small>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="mb-3">
+                                            <label for="kitchen" class="form-label">
+                                                <i class="fas fa-fire"></i> Số lượng bếp (gas/điện)
+                                            </label>
+                                            <input type="number" class="form-control" id="kitchen" name="kitchen" 
+                                                   placeholder="0" min="0" max="5" value="0" required>
+                                            <small class="text-muted">Ảnh hưởng cao đến giá</small>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="mb-3">
+                                            <label for="wardrobe" class="form-label">
+                                                <i class="fas fa-door-closed"></i> Số lượng tủ (âm tường)
+                                            </label>
+                                            <input type="number" class="form-control" id="wardrobe" name="wardrobe" 
+                                                   placeholder="0" min="0" max="10" value="0" required>
+                                            <small class="text-muted">Ảnh hưởng vừa phải</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-success w-100" id="predictBtn">
+                                        <i class="fas fa-magic"></i> Dự Đoán Giá
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+
+                        <div id="predictionLoading" class="loading">
+                            <div class="spinner-border text-success" role="status">
+                                <span class="visually-hidden">Loading...</span>
+                            </div>
+                            <p class="mt-2">Đang tính toán dự đoán...</p>
+                        </div>
+
+                        <div id="predictionResult" class="prediction-result" style="display: none;">
+                            <i class="fas fa-chart-line mb-2"></i>
+                            <div id="predictionText" class="mb-3"></div>
+                            <div id="predictionDetails" class="text-white-50" style="font-size: 1rem;">
+                                <div id="addressInfo"></div>
+                                <div id="propertyInfo"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        // Prediction functionality
+        document.getElementById('predictionForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const data = {
+                province: formData.get('province'),
+                district: formData.get('district'),
+                address: formData.get('address'),
+                type_house: formData.get('typeHouse'),
+                legal_status: formData.get('legalStatus'),
+                road_type: formData.get('roadType'),
+                area: formData.get('area'),
+                frontage: formData.get('frontage'),
+                floors: formData.get('floors'),
+                bedrooms: formData.get('bedrooms'),
+                bathrooms: formData.get('bathrooms'),
+                year_built: formData.get('yearBuilt'),
+                gia_trung_binh: formData.get('giaTrungBinh'),
+                air_conditioner: formData.get('airConditioner'),
+                washing_machine: formData.get('washingMachine'),
+                kitchen: formData.get('kitchen'),
+                wardrobe: formData.get('wardrobe')
+            };
+            
+            const btn = document.getElementById('predictBtn');
+            const loading = document.getElementById('predictionLoading');
+            const result = document.getElementById('predictionResult');
+            
+            btn.disabled = true;
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Đang tính toán...';
+            loading.style.display = 'block';
+            result.style.display = 'none';
+            
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Hiển thị giá dự đoán gốc
+                    document.getElementById('predictionText').textContent = `Giá dự đoán: ${data.prediction}`;
+                    
+                    // Hiển thị thông tin chi tiết
+                    if (data.details) {
+                        const fullAddress = `${data.details.address}, ${data.details.district}, ${data.details.province}`;
+                        document.getElementById('addressInfo').innerHTML = `<i class="fas fa-map-marker-alt"></i> <strong>Địa chỉ:</strong> ${fullAddress}`;
+                        document.getElementById('propertyInfo').innerHTML = `<i class="fas fa-home"></i> <strong>Thông tin:</strong> ${data.details.type_house} - ${data.details.area}m²`;
+                    }
+                    
+                    result.style.display = 'block';
+                    result.scrollIntoView({ behavior: 'smooth' });
+                } else {
+                    showAlert('danger', data.message);
+                }
+            })
+            .catch(error => {
+                showAlert('danger', 'Lỗi kết nối: ' + error.message);
+            })
+            .finally(() => {
+                btn.disabled = false;
+                btn.innerHTML = '<i class="fas fa-magic"></i> Dự Đoán Giá';
+                loading.style.display = 'none';
+            });
+        });
+
+        // Handle province selection
+        document.getElementById('province').addEventListener('change', function() {
+            const province = this.value;
+            const districtSelect = document.getElementById('district');
+            
+            if (province) {
+                // Load districts for selected province
+                fetch(`/api/districts/${encodeURIComponent(province)}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            districtSelect.innerHTML = '<option value="">Chọn Quận/Huyện</option>';
+                            data.districts.forEach(district => {
+                                const option = document.createElement('option');
+                                option.value = district;
+                                option.textContent = district;
+                                districtSelect.appendChild(option);
+                            });
+                            districtSelect.disabled = false;
+                        } else {
+                            showAlert('warning', data.message);
+                        }
+                    })
+                    .catch(error => {
+                        showAlert('danger', 'Lỗi kết nối: ' + error.message);
+                    });
+            } else {
+                districtSelect.innerHTML = '<option value="">Chọn Quận/Huyện</option>';
+                districtSelect.disabled = true;
+                document.getElementById('giaTrungBinh').value = '';
+            }
+        });
+
+        // Handle district selection
+        document.getElementById('district').addEventListener('change', function() {
+            const province = document.getElementById('province').value;
+            const district = this.value;
+            
+            if (province && district) {
+                // Load average price for selected location
+                fetch(`/api/price/${encodeURIComponent(province)}/${encodeURIComponent(district)}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            document.getElementById('giaTrungBinh').value = data.price;
+                            const priceInfo = document.getElementById('priceInfo');
+                            priceInfo.innerHTML = `<i class="fas fa-info-circle"></i> Giá trung bình ${province} - ${district}: ${data.price} triệu/m²`;
+                            priceInfo.style.display = 'block';
+                        } else {
+                            showAlert('warning', data.message);
+                        }
+                    })
+                    .catch(error => {
+                        showAlert('danger', 'Lỗi kết nối: ' + error.message);
+                    });
+            }
+        });
+
+        // Utility function to show alerts
+        function showAlert(type, message) {
+            const alertDiv = document.createElement('div');
+            alertDiv.className = `alert alert-${type} alert-dismissible fade show`;
+            alertDiv.innerHTML = `
+                ${message}
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            `;
+            
+            document.querySelector('.content').insertBefore(alertDiv, document.querySelector('.content').firstChild);
+            
+            // Auto dismiss after 5 seconds
+            setTimeout(() => {
+                if (alertDiv.parentNode) {
+                    alertDiv.remove();
+                }
+            }, 5000);
+        }
+
+
+    </script>
+</body>
+</html>

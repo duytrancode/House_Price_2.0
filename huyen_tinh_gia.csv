@@ -1,0 +1,696 @@
+Huyện,Tỉnh,Giá trung bình (triệu đồng/m2)
+Ba Đình,Hà Nội,320
+Hoàn Kiếm,Hà Nội,350
+Tây Hồ,Hà Nội,280
+Long Biên,Hà Nội,150
+Cầu Giấy,Hà Nội,250
+Đống Đa,Hà Nội,300
+Hai Bà Trưng,Hà Nội,280
+Hoàng Mai,Hà Nội,120
+Thanh Xuân,Hà Nội,230
+Hà Đông,Hà Nội,100
+Bắc Từ Liêm,Hà Nội,110
+Nam Từ Liêm,Hà Nội,120
+Sơn Tây,Hà Nội,45
+Ba Vì,Hà Nội,25
+Chương Mỹ,Hà Nội,28
+Đan Phượng,Hà Nội,35
+Đông Anh,Hà Nội,55
+Gia Lâm,Hà Nội,70
+Hoài Đức,Hà Nội,45
+Mê Linh,Hà Nội,30
+Mỹ Đức,Hà Nội,25
+Phú Xuyên,Hà Nội,28
+Phúc Thọ,Hà Nội,30
+Quốc Oai,Hà Nội,32
+Sóc Sơn,Hà Nội,35
+Thạch Thất,Hà Nội,38
+Thanh Oai,Hà Nội,30
+Thanh Trì,Hà Nội,65
+Thường Tín,Hà Nội,35
+Ứng Hòa,Hà Nội,28
+Quận 1,TP.HCM,350
+Quận 3,TP.HCM,320
+Quận 4,TP.HCM,250
+Quận 5,TP.HCM,280
+Quận 6,TP.HCM,200
+Quận 7,TP.HCM,230
+Quận 8,TP.HCM,180
+Quận 10,TP.HCM,300
+Quận 11,TP.HCM,250
+Quận 12,TP.HCM,120
+Bình Tân,TP.HCM,150
+Bình Thạnh,TP.HCM,280
+Gò Vấp,TP.HCM,180
+Phú Nhuận,TP.HCM,300
+Tân Bình,TP.HCM,250
+Tân Phú,TP.HCM,200
+Thủ Đức,TP.HCM,180
+Bình Chánh,TP.HCM,90
+Cần Giờ,TP.HCM,45
+Củ Chi,TP.HCM,50
+Hóc Môn,TP.HCM,80
+Nhà Bè,TP.HCM,85
+Hồng Bàng,Hải Phòng,120
+Ngô Quyền,Hải Phòng,110
+Lê Chân,Hải Phòng,95
+Hải An,Hải Phòng,85
+Kiến An,Hải Phòng,75
+Đồ Sơn,Hải Phòng,90
+Dương Kinh,Hải Phòng,70
+An Lão,Hải Phòng,45
+An Dương,Hải Phòng,50
+Kiến Thụy,Hải Phòng,40
+Tiên Lãng,Hải Phòng,35
+Vĩnh Bảo,Hải Phòng,30
+Cát Hải,Hải Phòng,45
+Bắc Ninh,Bắc Ninh,75
+Từ Sơn,Bắc Ninh,65
+Yên Phong,Bắc Ninh,60
+Quế Võ,Bắc Ninh,50
+Tiên Du,Bắc Ninh,45
+Thuận Thành,Bắc Ninh,40
+Gia Bình,Bắc Ninh,35
+Lương Tài,Bắc Ninh,30
+Việt Yên,Bắc Giang,45
+Yên Dũng,Bắc Giang,35
+Lục Nam,Bắc Giang,30
+Lục Ngạn,Bắc Giang,28
+Sơn Động,Bắc Giang,25
+Yên Thế,Bắc Giang,25
+Tân Yên,Bắc Giang,30
+Hiệp Hòa,Bắc Giang,32
+Lạng Giang,Bắc Giang,35
+TP Bắc Giang,Bắc Giang,50
+Hải Châu,Đà Nẵng,150
+Thanh Khê,Đà Nẵng,130
+Sơn Trà,Đà Nẵng,120
+Ngũ Hành Sơn,Đà Nẵng,110
+Liên Chiểu,Đà Nẵng,90
+Cẩm Lệ,Đà Nẵng,95
+Hòa Vang,Đà Nẵng,60
+Hoàng Sa,Đà Nẵng,45
+TP Huế,Thừa Thiên Huế,80
+Phong Điền,Thừa Thiên Huế,35
+Quảng Điền,Thừa Thiên Huế,30
+Phú Vang,Thừa Thiên Huế,40
+Hương Thủy,Thừa Thiên Huế,45
+Hương Trà,Thừa Thiên Huế,42
+A Lưới,Thừa Thiên Huế,25
+Nam Đông,Thừa Thiên Huế,28
+Phú Lộc,Thừa Thiên Huế,35
+TP Nha Trang,Khánh Hòa,120
+Cam Ranh,Khánh Hòa,70
+Ninh Hòa,Khánh Hòa,55
+Vạn Ninh,Khánh Hòa,45
+Diên Khánh,Khánh Hòa,50
+Khánh Vĩnh,Khánh Hòa,35
+Khánh Sơn,Khánh Hòa,30
+Trường Sa,Khánh Hòa,40
+TP Quy Nhơn,Bình Định,85
+An Nhơn,Bình Định,50
+Hoài Nhơn,Bình Định,45
+Hoài Ân,Bình Định,35
+Phù Mỹ,Bình Định,30
+Phù Cát,Bình Định,32
+Tây Sơn,Bình Định,28
+Vân Canh,Bình Định,25
+Tuy Phước,Bình Định,40
+Vĩnh Thạnh,Bình Định,30
+An Lão,Bình Định,28
+Biên Hòa,Đồng Nai,85
+Long Khánh,Đồng Nai,60
+Tân Phú,Đồng Nai,35
+Vĩnh Cửu,Đồng Nai,40
+Định Quán,Đồng Nai,32
+Trảng Bom,Đồng Nai,45
+Thống Nhất,Đồng Nai,38
+Cẩm Mỹ,Đồng Nai,30
+Long Thành,Đồng Nai,65
+Xuân Lộc,Đồng Nai,35
+Nhơn Trạch,Đồng Nai,55
+Thủ Dầu Một,Bình Dương,90
+Dĩ An,Bình Dương,75
+Thuận An,Bình Dương,80
+Bến Cát,Bình Dương,60
+Tân Uyên,Bình Dương,65
+Bàu Bàng,Bình Dương,45
+Dầu Tiếng,Bình Dương,35
+Phú Giáo,Bình Dương,40
+Bắc Tân Uyên,Bình Dương,50
+Vũng Tàu,Bà Rịa-Vũng Tàu,95
+Bà Rịa,Bà Rịa-Vũng Tàu,75
+Châu Đức,Bà Rịa-Vũng Tàu,45
+Long Điền,Bà Rịa-Vũng Tàu,55
+Đất Đỏ,Bà Rịa-Vũng Tàu,40
+Xuyên Mộc,Bà Rịa-Vũng Tàu,35
+Côn Đảo,Bà Rịa-Vũng Tàu,80
+Tân An,Long An,55
+Kiến Tường,Long An,35
+Tân Hưng,Long An,25
+Vĩnh Hưng,Long An,22
+Mộc Hóa,Long An,24
+Tân Thạnh,Long An,25
+Thạnh Hóa,Long An,26
+Đức Huệ,Long An,25
+Đức Hòa,Long An,45
+Bến Lức,Long An,40
+Thủ Thừa,Long An,30
+Cần Đước,Long An,32
+Cần Giuộc,Long An,35
+Châu Thành,Long An,28
+TP Lào Cai,Lào Cai,65
+Bát Xát,Lào Cai,28
+Mường Khương,Lào Cai,25
+Si Ma Cai,Lào Cai,22
+Bắc Hà,Lào Cai,24
+Bảo Thắng,Lào Cai,35
+Bảo Yên,Lào Cai,28
+Sa Pa,Lào Cai,55
+Văn Bàn,Lào Cai,26
+TP Yên Bái,Yên Bái,55
+Nghĩa Lộ,Yên Bái,35
+Lục Yên,Yên Bái,28
+Văn Yên,Yên Bái,25
+Mù Cang Chải,Yên Bái,22
+Trấn Yên,Yên Bái,30
+Trạm Tấu,Yên Bái,20
+Văn Chấn,Yên Bái,28
+Yên Bình,Yên Bái,32
+TP Điện Biên Phủ,Điện Biên,50
+Mường Lay,Điện Biên,35
+Mường Nhé,Điện Biên,20
+Mường Chà,Điện Biên,22
+Tủa Chùa,Điện Biên,25
+Tuần Giáo,Điện Biên,28
+Điện Biên,Điện Biên,30
+Điện Biên Đông,Điện Biên,24
+Mường Ảng,Điện Biên,26
+Nậm Pồ,Điện Biên,20
+TP Lai Châu,Lai Châu,45
+Tam Đường,Lai Châu,25
+Mường Tè,Lai Châu,20
+Sìn Hồ,Lai Châu,22
+Phong Thổ,Lai Châu,24
+Than Uyên,Lai Châu,28
+Tân Uyên,Lai Châu,26
+Nậm Nhùn,Lai Châu,20
+TP Sơn La,Sơn La,52
+Quỳnh Nhai,Sơn La,25
+Thuận Châu,Sơn La,28
+Mường La,Sơn La,24
+Bắc Yên,Sơn La,22
+Phù Yên,Sơn La,26
+Mộc Châu,Sơn La,35
+Yên Châu,Sơn La,28
+Mai Sơn,Sơn La,30
+Sông Mã,Sơn La,26
+Sốp Cộp,Sơn La,20
+Vân Hồ,Sơn La,25
+TP Hòa Bình,Hòa Bình,55
+Đà Bắc,Hòa Bình,25
+Mai Châu,Hòa Bình,30
+Lương Sơn,Hòa Bình,35
+Kim Bôi,Hòa Bình,28
+Cao Phong,Hòa Bình,26
+Tân Lạc,Hòa Bình,25
+Lạc Sơn,Hòa Bình,24
+Yên Thủy,Hòa Bình,28
+Lạc Thủy,Hòa Bình,30
+TP Thái Nguyên,Thái Nguyên,65
+Sông Công,Thái Nguyên,45
+Định Hóa,Thái Nguyên,28
+Phú Lương,Thái Nguyên,32
+Đồng Hỷ,Thái Nguyên,35
+Võ Nhai,Thái Nguyên,26
+Đại Từ,Thái Nguyên,30
+Phổ Yên,Thái Nguyên,40
+Phú Bình,Thái Nguyên,35
+TP Lạng Sơn,Lạng Sơn,58
+Tràng Định,Lạng Sơn,25
+Bình Gia,Lạng Sơn,22
+Văn Lãng,Lạng Sơn,24
+Cao Lộc,Lạng Sơn,35
+Văn Quan,Lạng Sơn,26
+Bắc Sơn,Lạng Sơn,28
+Hữu Lũng,Lạng Sơn,32
+Chi Lăng,Lạng Sơn,30
+Lộc Bình,Lạng Sơn,28
+Đình Lập,Lạng Sơn,25
+TP Cao Bằng,Cao Bằng,52
+Bảo Lâm,Cao Bằng,25
+Bảo Lạc,Cao Bằng,22
+Thông Nông,Cao Bằng,20
+Hà Quảng,Cao Bằng,24
+Trà Lĩnh,Cao Bằng,26
+Trùng Khánh,Cao Bằng,28
+Hạ Lang,Cao Bằng,22
+Quảng Uyên,Cao Bằng,25
+Phục Hòa,Cao Bằng,28
+Hòa An,Cao Bằng,30
+Nguyên Bình,Cao Bằng,24
+Thạch An,Cao Bằng,22
+TP Hà Giang,Hà Giang,50
+Đồng Văn,Hà Giang,28
+Mèo Vạc,Hà Giang,25
+Yên Minh,Hà Giang,24
+Quản Bạ,Hà Giang,22
+Vị Xuyên,Hà Giang,30
+Bắc Mê,Hà Giang,26
+Hoàng Su Phì,Hà Giang,24
+Xín Mần,Hà Giang,22
+Bắc Quang,Hà Giang,28
+Quang Bình,Hà Giang,25
+TP Thanh Hóa,Thanh Hóa,65
+Bỉm Sơn,Thanh Hóa,45
+Sầm Sơn,Thanh Hóa,50
+Mường Lát,Thanh Hóa,20
+Quan Hóa,Thanh Hóa,22
+Bá Thước,Thanh Hóa,24
+Quan Sơn,Thanh Hóa,22
+Lang Chánh,Thanh Hóa,25
+Ngọc Lặc,Thanh Hóa,28
+Cẩm Thủy,Thanh Hóa,30
+Thạch Thành,Thanh Hóa,32
+Hà Trung,Thanh Hóa,35
+Vĩnh Lộc,Thanh Hóa,32
+Yên Định,Thanh Hóa,35
+Thọ Xuân,Thanh Hóa,38
+Thường Xuân,Thanh Hóa,28
+Triệu Sơn,Thanh Hóa,32
+Thiệu Hóa,Thanh Hóa,30
+Hoằng Hóa,Thanh Hóa,35
+Hậu Lộc,Thanh Hóa,32
+Nga Sơn,Thanh Hóa,28
+Như Xuân,Thanh Hóa,25
+Như Thanh,Thanh Hóa,26
+Nông Cống,Thanh Hóa,30
+Đông Sơn,Thanh Hóa,35
+Quảng Xương,Thanh Hóa,38
+Tĩnh Gia,Thanh Hóa,40
+TP Vinh,Nghệ An,70
+Cửa Lò,Nghệ An,55
+Thái Hòa,Nghệ An,45
+Quế Phong,Nghệ An,25
+Quỳ Châu,Nghệ An,22
+Kỳ Sơn,Nghệ An,20
+Tương Dương,Nghệ An,22
+Nghĩa Đàn,Nghệ An,28
+Quỳ Hợp,Nghệ An,26
+Quỳnh Lưu,Nghệ An,32
+Con Cuông,Nghệ An,24
+Tân Kỳ,Nghệ An,28
+Anh Sơn,Nghệ An,30
+Diễn Châu,Nghệ An,35
+Yên Thành,Nghệ An,32
+Đô Lương,Nghệ An,30
+Thanh Chương,Nghệ An,28
+Nghi Lộc,Nghệ An,35
+Nam Đàn,Nghệ An,32
+Hưng Nguyên,Nghệ An,34
+Hoàng Mai,Nghệ An,40
+TP Hà Tĩnh,Hà Tĩnh,60
+Hồng Lĩnh,Hà Tĩnh,45
+Hương Sơn,Hà Tĩnh,32
+Đức Thọ,Hà Tĩnh,30
+Vũ Quang,Hà Tĩnh,25
+Nghi Xuân,Hà Tĩnh,35
+Can Lộc,Hà Tĩnh,28
+Hương Khê,Hà Tĩnh,26
+Thạch Hà,Hà Tĩnh,32
+Cẩm Xuyên,Hà Tĩnh,30
+Kỳ Anh,Hà Tĩnh,35
+Lộc Hà,Hà Tĩnh,28
+TP Đồng Hới,Quảng Bình,58
+Minh Hóa,Quảng Bình,25
+Tuyên Hóa,Quảng Bình,28
+Quảng Trạch,Quảng Bình,32
+Bố Trạch,Quảng Bình,35
+Quảng Ninh,Quảng Bình,30
+Lệ Thủy,Quảng Bình,32
+Ba Đồn,Quảng Bình,40
+TP Đông Hà,Quảng Trị,55
+Quảng Trị,Quảng Trị,40
+Vĩnh Linh,Quảng Trị,35
+Hướng Hóa,Quảng Trị,28
+Gio Linh,Quảng Trị,32
+Đa Krông,Quảng Trị,25
+Cam Lộ,Quảng Trị,30
+Triệu Phong,Quảng Trị,35
+Hải Lăng,Quảng Trị,32
+Cồn Cỏ,Quảng Trị,28
+TP Mỹ Tho,Tiền Giang,65
+Gò Công,Tiền Giang,45
+Cai Lậy,Tiền Giang,42
+Cái Bè,Tiền Giang,38
+Châu Thành,Tiền Giang,35
+Chợ Gạo,Tiền Giang,32
+Gò Công Đông,Tiền Giang,30
+Gò Công Tây,Tiền Giang,28
+Tân Phước,Tiền Giang,25
+TP Bến Tre,Bến Tre,58
+Châu Thành,Bến Tre,35
+Chợ Lách,Bến Tre,32
+Mỏ Cày Nam,Bến Tre,30
+Giồng Trôm,Bến Tre,28
+Ba Tri,Bến Tre,25
+Bình Đại,Bến Tre,26
+Thạnh Phú,Bến Tre,24
+Mỏ Cày Bắc,Bến Tre,28
+TP Vĩnh Long,Vĩnh Long,60
+Long Hồ,Vĩnh Long,35
+Mang Thít,Vĩnh Long,28
+Vũng Liêm,Vĩnh Long,30
+Tam Bình,Vĩnh Long,32
+Trà Ôn,Vĩnh Long,28
+Bình Minh,Vĩnh Long,35
+Bình Tân,Vĩnh Long,30
+TP Cao Lãnh,Đồng Tháp,55
+Sa Đéc,Đồng Tháp,50
+Hồng Ngự,Đồng Tháp,42
+Tân Hồng,Đồng Tháp,28
+Châu Thành,Đồng Tháp,32
+Lai Vung,Đồng Tháp,35
+Lấp Vò,Đồng Tháp,38
+Tam Nông,Đồng Tháp,25
+Tháp Mười,Đồng Tháp,28
+Cao Lãnh,Đồng Tháp,35
+Thanh Bình,Đồng Tháp,30
+TP Long Xuyên,An Giang,65
+Châu Đốc,An Giang,55
+Tân Châu,An Giang,45
+An Phú,An Giang,35
+Châu Phú,An Giang,38
+Châu Thành,An Giang,35
+Chợ Mới,An Giang,32
+Phú Tân,An Giang,30
+Thoại Sơn,An Giang,28
+Tri Tôn,An Giang,25
+Tịnh Biên,An Giang,28
+TP Rạch Giá,Kiên Giang,70
+Hà Tiên,Kiên Giang,50
+Kiên Lương,Kiên Giang,45
+Hòn Đất,Kiên Giang,32
+Tân Hiệp,Kiên Giang,35
+Châu Thành,Kiên Giang,38
+Giồng Riềng,Kiên Giang,30
+Gò Quao,Kiên Giang,28
+An Biên,Kiên Giang,25
+An Minh,Kiên Giang,24
+Vĩnh Thuận,Kiên Giang,26
+Phú Quốc,Kiên Giang,150
+Kiên Hải,Kiên Giang,35
+U Minh Thượng,Kiên Giang,22
+TP Cà Mau,Cà Mau,60
+U Minh,Cà Mau,30
+Thới Bình,Cà Mau,28
+Trần Văn Thời,Cà Mau,32
+Cái Nước,Cà Mau,25
+Đầm Dơi,Cà Mau,26
+Năm Căn,Cà Mau,35
+Phú Tân,Cà Mau,28
+Ngọc Hiển,Cà Mau,24
+TP Bạc Liêu,Bạc Liêu,55
+Hồng Dân,Bạc Liêu,28
+Phước Long,Bạc Liêu,25
+Vĩnh Lợi,Bạc Liêu,30
+Giá Rai,Bạc Liêu,35
+Đông Hải,Bạc Liêu,28
+Hòa Bình,Bạc Liêu,25
+TP Sóc Trăng,Sóc Trăng,58
+Châu Thành,Sóc Trăng,35
+Kế Sách,Sóc Trăng,32
+Mỹ Tú,Sóc Trăng,28
+Mỹ Xuyên,Sóc Trăng,30
+Long Phú,Sóc Trăng,32
+Thạnh Trị,Sóc Trăng,25
+Vĩnh Châu,Sóc Trăng,35
+Cù Lao Dung,Sóc Trăng,22
+Ngã Năm,Sóc Trăng,30
+TP Bắc Kạn,Bắc Kạn,52
+Ba Bể,Bắc Kạn,25
+Bạch Thông,Bắc Kạn,28
+Chợ Đồn,Bắc Kạn,26
+Chợ Mới,Bắc Kạn,30
+Na Rì,Bắc Kạn,24
+Ngân Sơn,Bắc Kạn,22
+Pác Nặm,Bắc Kạn,20
+TP Tuyên Quang,Tuyên Quang,55
+Lâm Bình,Tuyên Quang,25
+Na Hang,Tuyên Quang,22
+Chiêm Hóa,Tuyên Quang,28
+Hàm Yên,Tuyên Quang,30
+Yên Sơn,Tuyên Quang,32
+Sơn Dương,Tuyên Quang,35
+TP Việt Trì,Phú Thọ,65
+Phú Thọ,Phú Thọ,45
+Đoan Hùng,Phú Thọ,32
+Hạ Hòa,Phú Thọ,30
+Thanh Ba,Phú Thọ,28
+Phù Ninh,Phú Thọ,35
+Yên Lập,Phú Thọ,26
+Cẩm Khê,Phú Thọ,28
+Tam Nông,Phú Thọ,30
+Lâm Thao,Phú Thọ,38
+Thanh Sơn,Phú Thọ,25
+Thanh Thủy,Phú Thọ,28
+Tân Sơn,Phú Thọ,22
+TP Phủ Lý,Hà Nam,58
+Duy Tiên,Hà Nam,45
+Kim Bảng,Hà Nam,42
+Thanh Liêm,Hà Nam,35
+Bình Lục,Hà Nam,32
+Lý Nhân,Hà Nam,30
+TP Hưng Yên,Hưng Yên,62
+Văn Lâm,Hưng Yên,50
+Văn Giang,Hưng Yên,48
+Yên Mỹ,Hưng Yên,42
+Mỹ Hào,Hưng Yên,45
+Ân Thi,Hưng Yên,35
+Khoái Châu,Hưng Yên,38
+Kim Động,Hưng Yên,32
+Tiên Lữ,Hưng Yên,30
+Phù Cừ,Hưng Yên,28
+TP Nam Định,Nam Định,65
+Mỹ Lộc,Nam Định,42
+Vụ Bản,Nam Định,38
+Ý Yên,Nam Định,35
+Nghĩa Hưng,Nam Định,32
+Nam Trực,Nam Định,30
+Trực Ninh,Nam Định,35
+Xuân Trường,Nam Định,32
+Giao Thủy,Nam Định,30
+Hải Hậu,Nam Định,35
+TP Ninh Bình,Ninh Bình,60
+Tam Điệp,Ninh Bình,45
+Nho Quan,Ninh Bình,32
+Gia Viễn,Ninh Bình,30
+Hoa Lư,Ninh Bình,35
+Yên Khánh,Ninh Bình,28
+Yên Mô,Ninh Bình,30
+Kim Sơn,Ninh Bình,32
+TP Thái Bình,Thái Bình,62
+Quỳnh Phụ,Thái Bình,35
+Hưng Hà,Thái Bình,32
+Đông Hưng,Thái Bình,30
+Thái Thụy,Thái Bình,28
+Tiền Hải,Thái Bình,32
+Kiến Xương,Thái Bình,30
+Vũ Thư,Thái Bình,28
+TP Vĩnh Yên,Vĩnh Phúc,65
+Phúc Yên,Vĩnh Phúc,55
+Lập Thạch,Vĩnh Phúc,35
+Tam Dương,Vĩnh Phúc,38
+Tam Đảo,Vĩnh Phúc,42
+Bình Xuyên,Vĩnh Phúc,45
+Yên Lạc,Vĩnh Phúc,40
+Vĩnh Tường,Vĩnh Phúc,35
+Sông Lô,Vĩnh Phúc,32
+TP Hạ Long,Quảng Ninh,120
+TP Cẩm Phả,Quảng Ninh,85
+TP Uông Bí,Quảng Ninh,75
+TP Móng Cái,Quảng Ninh,70
+Quảng Yên,Quảng Ninh,65
+Đông Triều,Quảng Ninh,60
+Hải Hà,Quảng Ninh,45
+Đầm Hà,Quảng Ninh,35
+Tiên Yên,Quảng Ninh,32
+Ba Chẽ,Quảng Ninh,28
+Bình Liêu,Quảng Ninh,25
+Vân Đồn,Quảng Ninh,55
+Cô Tô,Quảng Ninh,40
+TP Trà Vinh,Trà Vinh,58
+Càng Long,Trà Vinh,35
+Cầu Kè,Trà Vinh,32
+Tiểu Cần,Trà Vinh,30
+Châu Thành,Trà Vinh,28
+Cầu Ngang,Trà Vinh,25
+Trà Cú,Trà Vinh,24
+Duyên Hải,Trà Vinh,35
+TP Vị Thanh,Hậu Giang,55
+Vị Thủy,Hậu Giang,32
+Long Mỹ,Hậu Giang,30
+Phụng Hiệp,Hậu Giang,28
+Châu Thành,Hậu Giang,35
+Châu Thành A,Hậu Giang,32
+Ngã Bảy,Hậu Giang,45
+TP Tây Ninh,Tây Ninh,62
+Tân Biên,Tây Ninh,35
+Tân Châu,Tây Ninh,32
+Dương Minh Châu,Tây Ninh,30
+Châu Thành,Tây Ninh,35
+Hòa Thành,Tây Ninh,38
+Bến Cầu,Tây Ninh,28
+Gò Dầu,Tây Ninh,32
+Trảng Bàng,Tây Ninh,42
+TP Đồng Xoài,Bình Phước,65
+Bình Long,Bình Phước,45
+Phước Long,Bình Phước,42
+Bù Đăng,Bình Phước,35
+Bù Đốp,Bình Phước,32
+Bù Gia Mập,Bình Phước,30
+Chơn Thành,Bình Phước,45
+Đồng Phú,Bình Phước,38
+Hớn Quản,Bình Phước,32
+Lộc Ninh,Bình Phước,35
+Phú Riềng,Bình Phước,30
+TP Kon Tum,Kon Tum,58
+Đắk Glei,Kon Tum,28
+Ngọc Hồi,Kon Tum,30
+Đắk Tô,Kon Tum,32
+Kon Plông,Kon Tum,25
+Kon Rẫy,Kon Tum,24
+Đắk Hà,Kon Tum,35
+Sa Thầy,Kon Tum,26
+Tu Mơ Rông,Kon Tum,22
+Ia H'Drai,Kon Tum,20
+TP Pleiku,Gia Lai,65
+An Khê,Gia Lai,45
+Ayun Pa,Gia Lai,42
+Chư Păh,Gia Lai,32
+Chư Prông,Gia Lai,30
+Chư Sê,Gia Lai,35
+Đắk Đoa,Gia Lai,32
+Đắk Pơ,Gia Lai,28
+Đức Cơ,Gia Lai,30
+Ia Grai,Gia Lai,32
+Ia Pa,Gia Lai,25
+KBang,Gia Lai,24
+Kông Chro,Gia Lai,22
+Krông Pa,Gia Lai,25
+Mang Yang,Gia Lai,28
+Phú Thiện,Gia Lai,30
+TP Buôn Ma Thuột,Đắk Lắk,70
+Buôn Hồ,Đắk Lắk,50
+Buôn Đôn,Đắk Lắk,32
+Cư Kuin,Đắk Lắk,35
+Cư M'gar,Đắk Lắk,38
+Ea H'leo,Đắk Lắk,32
+Ea Kar,Đắk Lắk,35
+Ea Súp,Đắk Lắk,28
+Krông Ana,Đắk Lắk,30
+Krông Bông,Đắk Lắk,32
+Krông Búk,Đắk Lắk,30
+Krông Năng,Đắk Lắk,35
+Krông Pắc,Đắk Lắk,38
+Lắk,Đắk Lắk,32
+M'Đrắk,Đắk Lắk,28
+TP Gia Nghĩa,Đắk Nông,60
+Cư Jút,Đắk Nông,35
+Đắk Glong,Đắk Nông,28
+Đắk Mil,Đắk Nông,32
+Đắk R'Lấp,Đắk Nông,30
+Đắk Song,Đắk Nông,32
+Krông Nô,Đắk Nông,28
+Tuy Đức,Đắk Nông,25
+TP Đà Lạt,Lâm Đồng,85
+Bảo Lộc,Lâm Đồng,60
+Bảo Lâm,Lâm Đồng,35
+Cát Tiên,Lâm Đồng,28
+Đạ Huoai,Lâm Đồng,30
+Đạ Tẻh,Lâm Đồng,28
+Đam Rông,Lâm Đồng,25
+Di Linh,Lâm Đồng,32
+Đơn Dương,Lâm Đồng,35
+Đức Trọng,Lâm Đồng,38
+Lạc Dương,Lâm Đồng,32
+Lâm Hà,Lâm Đồng,35
+TP Tam Kỳ,Quảng Nam,65
+Hội An,Quảng Nam,85
+Nam Giang,Quảng Nam,25
+Đông Giang,Quảng Nam,22
+Nam Trà My,Quảng Nam,20
+Bắc Trà My,Quảng Nam,22
+Phú Ninh,Quảng Nam,28
+Duy Xuyên,Quảng Nam,35
+Điện Bàn,Quảng Nam,45
+Đại Lộc,Quảng Nam,30
+Thăng Bình,Quảng Nam,28
+Quế Sơn,Quảng Nam,25
+Hiệp Đức,Quảng Nam,22
+Phước Sơn,Quảng Nam,20
+Tiên Phước,Quảng Nam,25
+Tây Giang,Quảng Nam,20
+Nam Giang,Quảng Nam,22
+Phú Ninh,Quảng Nam,28
+Nông Sơn,Quảng Nam,25
+TP Quảng Ngãi,Quảng Ngãi,60
+Bình Sơn,Quảng Ngãi,35
+Trà Bồng,Quảng Ngãi,25
+Sơn Tịnh,Quảng Ngãi,30
+Tư Nghĩa,Quảng Ngãi,32
+Sơn Hà,Quảng Ngãi,25
+Sơn Tây,Quảng Ngãi,22
+Minh Long,Quảng Ngãi,20
+Nghĩa Hành,Quảng Ngãi,28
+Mộ Đức,Quảng Ngãi,30
+Đức Phổ,Quảng Ngãi,35
+Ba Tơ,Quảng Ngãi,25
+Lý Sơn,Quảng Ngãi,40
+TP Tuy Hòa,Phú Yên,62
+Sông Cầu,Phú Yên,45
+Đồng Xuân,Phú Yên,25
+Tuy An,Phú Yên,30
+Sơn Hòa,Phú Yên,28
+Sông Hinh,Phú Yên,25
+Tây Hòa,Phú Yên,32
+Phú Hòa,Phú Yên,35
+Đông Hòa,Phú Yên,40
+TP Phan Rang-Tháp Chàm,Ninh Thuận,58
+Bác Ái,Ninh Thuận,25
+Ninh Sơn,Ninh Thuận,30
+Ninh Hải,Ninh Thuận,35
+Ninh Phước,Ninh Thuận,32
+Thuận Bắc,Ninh Thuận,28
+Thuận Nam,Ninh Thuận,30
+TP Phan Thiết,Bình Thuận,65
+La Gi,Bình Thuận,45
+Tuy Phong,Bình Thuận,35
+Bắc Bình,Bình Thuận,32
+Hàm Thuận Bắc,Bình Thuận,38
+Hàm Thuận Nam,Bình Thuận,35
+Tánh Linh,Bình Thuận,30
+Đức Linh,Bình Thuận,32
+Hàm Tân,Bình Thuận,35
+Phú Quý,Bình Thuận,40
+TP Hải Dương,Hải Dương,62
+Chí Linh,Hải Dương,50
+Nam Sách,Hải Dương,35
+Kinh Môn,Hải Dương,40
+Kim Thành,Hải Dương,32
+Thanh Hà,Hải Dương,30
+Cẩm Giàng,Hải Dương,35
+Bình Giang,Hải Dương,32
+Gia Lộc,Hải Dương,30
+Tứ Kỳ,Hải Dương,28
+Ninh Giang,Hải Dương,25
+Thanh Miện,Hải Dương,28
+Ninh Kiều,Cần Thơ,85
+Ô Môn,Cần Thơ,60
+Bình Thủy,Cần Thơ,65
+Cái Răng,Cần Thơ,70
+Thốt Nốt,Cần Thơ,55
+Vĩnh Thạnh,Cần Thơ,35
+Cờ Đỏ,Cần Thơ,32
+Phong Điền,Cần Thơ,30
+Thới Lai,Cần Thơ,28

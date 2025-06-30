@@ -1,0 +1,1019 @@
+TypeHouse;Address;Floors;Area;Frontage;Bedrooms;Bathrooms;YearBuilt;Legal_Status;Road_Type;Price;Gia_trung_binh
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;72;15;2;2;2021;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;20.16;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;72;15;2;2;2020;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;16.8;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;72;15;2;2;2019;Đang thế chấp ngân hàng;Ngõ rộng;15.84;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;72;15;2;2;2018;Nằm trong diện quy hoạch;Ngõ nhỏ;10.08;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;72;15;2;2;2017;Sở hữu theo hợp đồng mua bán/giấy tờ viết tay;Đường cao tốc;8.4;480
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;74;16;2;2;2021;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;18.0;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;74;16;2;2;2020;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;14.85;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;74;16;2;2;2019;Đang thế chấp ngân hàng;Ngõ rộng;14.17;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;74;16;2;2;2018;Nằm trong diện quy hoạch;Ngõ nhỏ;8.91;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;74;16;2;2;2017;Sở hữu theo hợp đồng mua bán/giấy tờ viết tay;Đường cao tốc;7.42;450
+Apartment;Nguyễn Văn Linh, TP. Đà Nẵng;0;76;17;2;2;2021;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.0;100
+Apartment;Nguyễn Văn Linh, TP. Đà Nẵng;0;76;17;2;2;2020;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.5;100
+Apartment;Nguyễn Văn Linh, TP. Đà Nẵng;0;76;17;2;2;2019;Đang thế chấp ngân hàng;Ngõ rộng;2.38;100
+Apartment;Nguyễn Văn Linh, TP. Đà Nẵng;0;76;17;2;2;2018;Nằm trong diện quy hoạch;Ngõ nhỏ;1.5;100
+Apartment;Nguyễn Văn Linh, TP. Đà Nẵng;0;76;17;2;2;2017;Sở hữu theo hợp đồng mua bán/giấy tờ viết tay;Đường cao tốc;1.25;100
+Apartment;Lê Hồng Phong, Q.Ngô Quyền, TP. Hải Phòng;0;78;18;2;2;2021;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.98;75
+Apartment;Lê Hồng Phong, Q.Ngô Quyền, TP. Hải Phòng;0;78;18;2;2;2020;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.65;75
+Apartment;Lê Hồng Phong, Q.Ngô Quyền, TP. Hải Phòng;0;78;18;2;2;2019;Đang thế chấp ngân hàng;Ngõ rộng;1.57;75
+Apartment;Lê Hồng Phong, Q.Ngô Quyền, TP. Hải Phòng;0;78;18;2;2;2018;Nằm trong diện quy hoạch;Ngõ nhỏ;0.99;75
+Apartment;Lê Hồng Phong, Q.Ngô Quyền, TP. Hải Phòng;0;78;18;2;2;2017;Sở hữu theo hợp đồng mua bán/giấy tờ viết tay;Đường cao tốc;0.83;75
+Apartment;Đại lộ Bình Dương, TP. Thủ Dầu Một, Bình Dương;0;80;19;2;2;2021;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.16;100
+Apartment;Đại lộ Bình Dương, TP. Thủ Dầu Một, Bình Dương;0;80;19;2;2;2020;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;100
+Apartment;Đại lộ Bình Dương, TP. Thủ Dầu Một, Bình Dương;0;80;19;2;2;2019;Đang thế chấp ngân hàng;Ngõ rộng;1.71;100
+Apartment;Đại lộ Bình Dương, TP. Thủ Dầu Một, Bình Dương;0;80;19;2;2;2018;Nằm trong diện quy hoạch;Ngõ nhỏ;1.08;100
+Apartment;Đại lộ Bình Dương, TP. Thủ Dầu Một, Bình Dương;0;80;19;2;2;2017;Sở hữu theo hợp đồng mua bán/giấy tờ viết tay;Đường cao tốc;0.9;100
+Apartment;Nguyễn Huệ, Q.1, TP.HCM;0;85;20;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;63.75;750
+Apartment;Nguyễn Huệ, Q.1, TP.HCM;0;75;18;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;58.5;750
+Apartment;Nguyễn Huệ, Q.1, TP.HCM;0;65;16;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;54.0;750
+Apartment;Lê Lợi, Q.1, TP.HCM;0;90;22;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;61.5;750
+Apartment;Lê Lợi, Q.1, TP.HCM;0;80;20;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;56.25;750
+Apartment;Đồng Khởi, Q.1, TP.HCM;0;70;18;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;51.0;750
+Apartment;Võ Văn Tần, Q.3, TP.HCM;0;82;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;46.8;650
+Apartment;Võ Văn Tần, Q.3, TP.HCM;0;72;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;42.25;650
+Apartment;Nguyễn Thị Minh Khai, Q.3, TP.HCM;0;68;16;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;37.7;650
+Apartment;Trần Hưng Đạo, Q.5, TP.HCM;0;78;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;35.36;520
+Apartment;Trần Hưng Đạo, Q.5, TP.HCM;0;68;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;32.24;520
+Apartment;Nguyễn Trãi, Q.5, TP.HCM;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;28.6;520
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;75;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;27.84;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;65;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;24.96;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;21.6;480
+Apartment;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;0;80;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.1;420
+Apartment;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;0;70;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;20.16;420
+Apartment;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;17.64;420
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;78;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.4;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;68;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;21.6;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;60;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;18.9;450
+Apartment;Phạm Văn Đồng, Ba Đình, Hà Nội;0;82;20;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;37.4;550
+Apartment;Phạm Văn Đồng, Ba Đình, Hà Nội;0;72;18;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;34.1;550
+Apartment;Phạm Văn Đồng, Ba Đình, Hà Nội;0;65;16;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;30.25;550
+Apartment;Đường Láng, Đống Đa, Hà Nội;0;75;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;27.84;480
+Apartment;Đường Láng, Đống Đa, Hà Nội;0;65;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;24.96;480
+Apartment;Đường Láng, Đống Đa, Hà Nội;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;21.6;480
+Apartment;Lạc Long Quân, Tây Hồ, Hà Nội;0;80;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.1;420
+Apartment;Lạc Long Quân, Tây Hồ, Hà Nội;0;70;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;20.16;420
+Apartment;Lạc Long Quân, Tây Hồ, Hà Nội;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;17.64;420
+Apartment;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;0;76;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.29;126
+Apartment;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;0;66;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.79;126
+Apartment;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.03;126
+Apartment;Trần Phú, Thanh Khê, Đà Nẵng;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.61;95
+Apartment;Trần Phú, Thanh Khê, Đà Nẵng;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.04;95
+Apartment;Trần Phú, Thanh Khê, Đà Nẵng;0;55;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.66;95
+Apartment;Lê Hồng Phong, Ngô Quyền, Hải Phòng;0;74;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;75
+Apartment;Lê Hồng Phong, Ngô Quyền, Hải Phòng;0;64;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Apartment;Lê Hồng Phong, Ngô Quyền, Hải Phòng;0;56;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;75
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;6;90;20;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.08;85
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;5;75;17;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.57;85
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;4;60;14;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.23;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;6;85;19;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.42;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;5;70;16;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.08;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;4;55;13;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.57;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;7;95;21;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.93;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;6;80;18;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.42;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;5;65;15;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.08;85
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;5;80;18;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.6;75
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;4;65;15;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.15;75
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;3;50;12;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.85;75
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;6;85;19;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.42;85
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;5;70;16;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.08;85
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;4;55;13;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.57;85
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;6;90;20;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.6;75
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;5;75;17;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.15;75
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;4;60;14;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.85;75
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;62
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.36;62
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.98;62
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;5;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;4;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;3;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.62;58
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.66;52
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.46;52
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.25;52
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;5;80;18;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.73;65
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;4;65;15;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.47;65
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;3;50;12;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.08;65
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;5;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.36;62
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;4;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.98;62
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;3;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.74;62
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.73;65
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.47;65
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.08;65
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.62;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.62;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.39;58
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.46;52
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.25;52
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;52
+Apartment;Lê Duẩn, Hội An, Quảng Nam;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.57;85
+Apartment;Lê Duẩn, Hội An, Quảng Nam;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.23;85
+Apartment;Lê Duẩn, Hội An, Quảng Nam;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.72;85
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.47;65
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.08;65
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.82;65
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.99;95
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.61;95
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.04;95
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;5;80;18;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.57;85
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;4;65;15;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.23;85
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;3;50;12;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.72;85
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.66;70
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.24;70
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.96;70
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.12;35
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.98;35
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.84;35
+Apartment;Trần Phú, Thái Nguyên, Thái Nguyên;0;65;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Apartment;Trần Phú, Thái Nguyên, Thái Nguyên;0;55;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Apartment;Trần Phú, Thái Nguyên, Thái Nguyên;0;45;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;100
+Townhouse;Trần Phú, Thái Nguyên, Thái Nguyên;4;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Townhouse;Trần Phú, Thái Nguyên, Thái Nguyên;3;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Townhouse;Trần Phú, Thái Nguyên, Thái Nguyên;2;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Villa;Trần Phú, Thái Nguyên, Thái Nguyên;5;80;18;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.2;100
+Villa;Trần Phú, Thái Nguyên, Thái Nguyên;4;65;15;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Trần Phú, Thái Nguyên, Thái Nguyên;3;50;12;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.2;100
+Nha cap 4;Trần Phú, Thái Nguyên, Thái Nguyên;3;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Nha cap 4;Trần Phú, Thái Nguyên, Thái Nguyên;2;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Nha cap 4;Trần Phú, Thái Nguyên, Thái Nguyên;1;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;100
+Apartment;Lê Lợi, Việt Trì, Phú Thọ;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Apartment;Lê Lợi, Việt Trì, Phú Thọ;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.5;100
+Apartment;Lê Lợi, Việt Trì, Phú Thọ;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.2;100
+Townhouse;Lê Lợi, Việt Trì, Phú Thọ;3;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Townhouse;Lê Lợi, Việt Trì, Phú Thọ;2;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Townhouse;Lê Lợi, Việt Trì, Phú Thọ;1;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Villa;Lê Lợi, Việt Trì, Phú Thọ;4;70;16;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Lê Lợi, Việt Trì, Phú Thọ;3;55;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Lê Lợi, Việt Trì, Phú Thọ;2;40;10;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.8;100
+Nha cap 4;Lê Lợi, Việt Trì, Phú Thọ;2;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Nha cap 4;Lê Lợi, Việt Trì, Phú Thọ;1;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Lê Lợi, Việt Trì, Phú Thọ;0;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Apartment;Nguyễn Huệ, Lào Cai, Lào Cai;0;60;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Apartment;Nguyễn Huệ, Lào Cai, Lào Cai;0;50;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.3;100
+Apartment;Nguyễn Huệ, Lào Cai, Lào Cai;0;40;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Nguyễn Huệ, Lào Cai, Lào Cai;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Townhouse;Nguyễn Huệ, Lào Cai, Lào Cai;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Townhouse;Nguyễn Huệ, Lào Cai, Lào Cai;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Villa;Nguyễn Huệ, Lào Cai, Lào Cai;4;65;15;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Nguyễn Huệ, Lào Cai, Lào Cai;3;50;12;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Nguyễn Huệ, Lào Cai, Lào Cai;2;35;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Nha cap 4;Nguyễn Huệ, Lào Cai, Lào Cai;2;30;5;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Nguyễn Huệ, Lào Cai, Lào Cai;1;20;3;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Nha cap 4;Nguyễn Huệ, Lào Cai, Lào Cai;0;10;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.2;100
+Apartment;Trần Hưng Đạo, Yên Bái, Yên Bái;0;58;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Apartment;Trần Hưng Đạo, Yên Bái, Yên Bái;0;48;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Apartment;Trần Hưng Đạo, Yên Bái, Yên Bái;0;38;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Trần Hưng Đạo, Yên Bái, Yên Bái;2;50;12;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Townhouse;Trần Hưng Đạo, Yên Bái, Yên Bái;1;35;9;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Trần Hưng Đạo, Yên Bái, Yên Bái;0;20;6;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Villa;Trần Hưng Đạo, Yên Bái, Yên Bái;3;60;14;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Trần Hưng Đạo, Yên Bái, Yên Bái;2;45;11;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Trần Hưng Đạo, Yên Bái, Yên Bái;1;30;8;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Nha cap 4;Trần Hưng Đạo, Yên Bái, Yên Bái;1;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Trần Hưng Đạo, Yên Bái, Yên Bái;0;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Trần Hưng Đạo, Yên Bái, Yên Bái;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Apartment;Lê Duẩn, Thanh Hóa, Thanh Hóa;0;64;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Apartment;Lê Duẩn, Thanh Hóa, Thanh Hóa;0;54;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Apartment;Lê Duẩn, Thanh Hóa, Thanh Hóa;0;44;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Townhouse;Lê Duẩn, Thanh Hóa, Thanh Hóa;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Townhouse;Lê Duẩn, Thanh Hóa, Thanh Hóa;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Townhouse;Lê Duẩn, Thanh Hóa, Thanh Hóa;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Villa;Lê Duẩn, Thanh Hóa, Thanh Hóa;5;75;17;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Lê Duẩn, Thanh Hóa, Thanh Hóa;4;60;14;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Lê Duẩn, Thanh Hóa, Thanh Hóa;3;45;11;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.8;100
+Nha cap 4;Lê Duẩn, Thanh Hóa, Thanh Hóa;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Nha cap 4;Lê Duẩn, Thanh Hóa, Thanh Hóa;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Lê Duẩn, Thanh Hóa, Thanh Hóa;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Apartment;Nguyễn Tất Thành, Vinh, Nghệ An;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.06;48
+Apartment;Nguyễn Tất Thành, Vinh, Nghệ An;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.86;48
+Apartment;Nguyễn Tất Thành, Vinh, Nghệ An;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.67;48
+Townhouse;Nguyễn Tất Thành, Vinh, Nghệ An;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.44;48
+Townhouse;Nguyễn Tất Thành, Vinh, Nghệ An;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.25;48
+Townhouse;Nguyễn Tất Thành, Vinh, Nghệ An;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.06;48
+Villa;Nguyễn Tất Thành, Vinh, Nghệ An;5;70;16;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.73;48
+Villa;Nguyễn Tất Thành, Vinh, Nghệ An;4;55;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.44;48
+Villa;Nguyễn Tất Thành, Vinh, Nghệ An;3;40;10;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.25;48
+Nha cap 4;Nguyễn Tất Thành, Vinh, Nghệ An;3;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.96;48
+Nha cap 4;Nguyễn Tất Thành, Vinh, Nghệ An;2;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.77;48
+Nha cap 4;Nguyễn Tất Thành, Vinh, Nghệ An;1;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.67;48
+Apartment;Trần Phú, Đồng Hới, Quảng Bình;0;60;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Apartment;Trần Phú, Đồng Hới, Quảng Bình;0;50;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.87;58
+Apartment;Trần Phú, Đồng Hới, Quảng Bình;0;40;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.7;58
+Townhouse;Trần Phú, Đồng Hới, Quảng Bình;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.51;58
+Townhouse;Trần Phú, Đồng Hới, Quảng Bình;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Townhouse;Trần Phú, Đồng Hới, Quảng Bình;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;58
+Villa;Trần Phú, Đồng Hới, Quảng Bình;4;65;15;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Villa;Trần Phú, Đồng Hới, Quảng Bình;3;50;12;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.62;58
+Villa;Trần Phú, Đồng Hới, Quảng Bình;2;35;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.39;58
+Nha cap 4;Trần Phú, Đồng Hới, Quảng Bình;2;30;5;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Nha cap 4;Trần Phú, Đồng Hới, Quảng Bình;1;20;3;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.93;58
+Nha cap 4;Trần Phú, Đồng Hới, Quảng Bình;0;10;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.81;58
+Apartment;Lê Lợi, Đắk Nông, Đắk Nông;0;58;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Apartment;Lê Lợi, Đắk Nông, Đắk Nông;0;48;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.3;100
+Apartment;Lê Lợi, Đắk Nông, Đắk Nông;0;38;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Lê Lợi, Đắk Nông, Đắk Nông;3;50;12;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Townhouse;Lê Lợi, Đắk Nông, Đắk Nông;2;35;9;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Lê Lợi, Đắk Nông, Đắk Nông;1;20;6;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Villa;Lê Lợi, Đắk Nông, Đắk Nông;4;60;14;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Lê Lợi, Đắk Nông, Đắk Nông;3;45;11;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Lê Lợi, Đắk Nông, Đắk Nông;2;30;8;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Nha cap 4;Lê Lợi, Đắk Nông, Đắk Nông;2;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Lê Lợi, Đắk Nông, Đắk Nông;1;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Lê Lợi, Đắk Nông, Đắk Nông;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Apartment;Nguyễn Huệ, Cần Thơ, Cần Thơ;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Apartment;Nguyễn Huệ, Cần Thơ, Cần Thơ;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Apartment;Nguyễn Huệ, Cần Thơ, Cần Thơ;0;46;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Townhouse;Nguyễn Huệ, Cần Thơ, Cần Thơ;5;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.2;100
+Townhouse;Nguyễn Huệ, Cần Thơ, Cần Thơ;4;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Townhouse;Nguyễn Huệ, Cần Thơ, Cần Thơ;3;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.2;100
+Villa;Nguyễn Huệ, Cần Thơ, Cần Thơ;6;80;18;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.8;100
+Villa;Nguyễn Huệ, Cần Thơ, Cần Thơ;5;65;15;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.2;100
+Villa;Nguyễn Huệ, Cần Thơ, Cần Thơ;4;50;12;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.8;100
+Nha cap 4;Nguyễn Huệ, Cần Thơ, Cần Thơ;4;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Nha cap 4;Nguyễn Huệ, Cần Thơ, Cần Thơ;3;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Nha cap 4;Nguyễn Huệ, Cần Thơ, Cần Thơ;2;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Apartment;Trần Hưng Đạo, Long Xuyên, An Giang;0;54;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Apartment;Trần Hưng Đạo, Long Xuyên, An Giang;0;44;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;58
+Townhouse;Trần Hưng Đạo, Long Xuyên, An Giang;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Townhouse;Trần Hưng Đạo, Long Xuyên, An Giang;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.97;58
+Townhouse;Trần Hưng Đạo, Long Xuyên, An Giang;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.62;58
+Villa;Trần Hưng Đạo, Long Xuyên, An Giang;5;75;17;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.55;58
+Villa;Trần Hưng Đạo, Long Xuyên, An Giang;4;60;14;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Villa;Trần Hưng Đạo, Long Xuyên, An Giang;3;45;11;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.86;58
+Nha cap 4;Trần Hưng Đạo, Long Xuyên, An Giang;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.51;58
+Nha cap 4;Trần Hưng Đạo, Long Xuyên, An Giang;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Nha cap 4;Trần Hưng Đạo, Long Xuyên, An Giang;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;58
+Apartment;Lê Duẩn, Rạch Giá, Kiên Giang;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Apartment;Lê Duẩn, Rạch Giá, Kiên Giang;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Apartment;Lê Duẩn, Rạch Giá, Kiên Giang;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Townhouse;Lê Duẩn, Rạch Giá, Kiên Giang;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.23;62
+Townhouse;Lê Duẩn, Rạch Giá, Kiên Giang;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.98;62
+Townhouse;Lê Duẩn, Rạch Giá, Kiên Giang;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.61;62
+Villa;Lê Duẩn, Rạch Giá, Kiên Giang;5;70;16;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;62
+Villa;Lê Duẩn, Rạch Giá, Kiên Giang;4;55;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.23;62
+Villa;Lê Duẩn, Rạch Giá, Kiên Giang;3;40;10;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.86;62
+Nha cap 4;Lê Duẩn, Rạch Giá, Kiên Giang;3;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Nha cap 4;Lê Duẩn, Rạch Giá, Kiên Giang;2;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Nha cap 4;Lê Duẩn, Rạch Giá, Kiên Giang;1;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Apartment;Nguyễn Huệ, Hà Giang, Hà Giang;0;56;12;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Apartment;Nguyễn Huệ, Hà Giang, Hà Giang;0;46;10;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.0;100
+Apartment;Nguyễn Huệ, Hà Giang, Hà Giang;0;36;8;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.8;100
+Townhouse;Lê Lợi, Hà Giang, Hà Giang;2;45;11;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Lê Lợi, Hà Giang, Hà Giang;1;30;8;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Townhouse;Lê Lợi, Hà Giang, Hà Giang;0;15;5;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Villa;Lê Lợi, Hà Giang, Hà Giang;3;55;13;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Lê Lợi, Hà Giang, Hà Giang;2;40;10;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Villa;Lê Lợi, Hà Giang, Hà Giang;1;25;7;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Nha cap 4;Lê Lợi, Hà Giang, Hà Giang;1;20;3;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Lê Lợi, Hà Giang, Hà Giang;0;10;1;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.8;100
+Nha cap 4;Lê Lợi, Hà Giang, Hà Giang;0;0;0;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.6;100
+Apartment;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;0;56;12;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Apartment;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;0;46;10;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.0;100
+Apartment;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;0;36;8;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.8;100
+Townhouse;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;2;45;11;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;1;30;8;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Townhouse;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;0;15;5;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Villa;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;3;55;13;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;2;40;10;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Villa;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;1;25;7;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Nha cap 4;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;1;20;3;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;0;10;1;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.8;100
+Nha cap 4;Nguyễn Tất Thành, Cao Bằng, Cao Bằng;0;0;0;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.6;100
+Apartment;Trần Phú, Lạng Sơn, Lạng Sơn;0;58;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Apartment;Trần Phú, Lạng Sơn, Lạng Sơn;0;48;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Apartment;Trần Phú, Lạng Sơn, Lạng Sơn;0;38;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Trần Phú, Lạng Sơn, Lạng Sơn;3;50;12;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Townhouse;Trần Phú, Lạng Sơn, Lạng Sơn;2;35;9;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Trần Phú, Lạng Sơn, Lạng Sơn;1;20;6;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Villa;Trần Phú, Lạng Sơn, Lạng Sơn;4;60;14;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Trần Phú, Lạng Sơn, Lạng Sơn;3;45;11;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Trần Phú, Lạng Sơn, Lạng Sơn;2;30;8;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Nha cap 4;Trần Phú, Lạng Sơn, Lạng Sơn;2;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Trần Phú, Lạng Sơn, Lạng Sơn;1;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Trần Phú, Lạng Sơn, Lạng Sơn;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Apartment;Lê Lợi, Hạ Long, Quảng Ninh;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;100
+Apartment;Lê Lợi, Hạ Long, Quảng Ninh;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Apartment;Lê Lợi, Hạ Long, Quảng Ninh;0;46;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;100
+Townhouse;Lê Lợi, Hạ Long, Quảng Ninh;5;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Townhouse;Lê Lợi, Hạ Long, Quảng Ninh;4;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.4;100
+Townhouse;Lê Lợi, Hạ Long, Quảng Ninh;3;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.8;100
+Villa;Lê Lợi, Hạ Long, Quảng Ninh;6;80;18;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.4;100
+Villa;Lê Lợi, Hạ Long, Quảng Ninh;5;65;15;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Lê Lợi, Hạ Long, Quảng Ninh;4;50;12;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.2;100
+Nha cap 4;Lê Lợi, Hạ Long, Quảng Ninh;4;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Nha cap 4;Lê Lợi, Hạ Long, Quảng Ninh;3;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Nha cap 4;Lê Lợi, Hạ Long, Quảng Ninh;2;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Apartment;Nguyễn Huệ, Nam Định, Nam Định;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Apartment;Nguyễn Huệ, Nam Định, Nam Định;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.7;100
+Apartment;Nguyễn Huệ, Nam Định, Nam Định;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Townhouse;Nguyễn Huệ, Nam Định, Nam Định;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.0;100
+Townhouse;Nguyễn Huệ, Nam Định, Nam Định;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;100
+Townhouse;Nguyễn Huệ, Nam Định, Nam Định;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.2;100
+Villa;Nguyễn Huệ, Nam Định, Nam Định;5;70;16;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.6;100
+Villa;Nguyễn Huệ, Nam Định, Nam Định;4;55;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.0;100
+Villa;Nguyễn Huệ, Nam Định, Nam Định;3;40;10;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.6;100
+Nha cap 4;Nguyễn Huệ, Nam Định, Nam Định;3;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Nha cap 4;Nguyễn Huệ, Nam Định, Nam Định;2;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Nguyễn Huệ, Nam Định, Nam Định;1;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Apartment;Trần Hưng Đạo, Thái Bình, Thái Bình;0;60;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Apartment;Trần Hưng Đạo, Thái Bình, Thái Bình;0;50;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.5;100
+Apartment;Trần Hưng Đạo, Thái Bình, Thái Bình;0;40;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.2;100
+Townhouse;Trần Hưng Đạo, Thái Bình, Thái Bình;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;100
+Townhouse;Trần Hưng Đạo, Thái Bình, Thái Bình;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Townhouse;Trần Hưng Đạo, Thái Bình, Thái Bình;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;100
+Villa;Trần Hưng Đạo, Thái Bình, Thái Bình;4;65;15;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Trần Hưng Đạo, Thái Bình, Thái Bình;3;50;12;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Trần Hưng Đạo, Thái Bình, Thái Bình;2;35;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Nha cap 4;Trần Hưng Đạo, Thái Bình, Thái Bình;2;30;5;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Trần Hưng Đạo, Thái Bình, Thái Bình;1;20;3;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Trần Hưng Đạo, Thái Bình, Thái Bình;0;10;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Apartment;Lê Duẩn, Hải Dương, Hải Dương;0;64;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Apartment;Lê Duẩn, Hải Dương, Hải Dương;0;54;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Apartment;Lê Duẩn, Hải Dương, Hải Dương;0;44;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;100
+Townhouse;Lê Duẩn, Hải Dương, Hải Dương;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Townhouse;Lê Duẩn, Hải Dương, Hải Dương;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Townhouse;Lê Duẩn, Hải Dương, Hải Dương;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Villa;Lê Duẩn, Hải Dương, Hải Dương;5;75;17;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Lê Duẩn, Hải Dương, Hải Dương;4;60;14;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Lê Duẩn, Hải Dương, Hải Dương;3;45;11;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.8;100
+Nha cap 4;Lê Duẩn, Hải Dương, Hải Dương;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Nha cap 4;Lê Duẩn, Hải Dương, Hải Dương;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Lê Duẩn, Hải Dương, Hải Dương;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Apartment;Nguyễn Tất Thành, Vĩnh Yên, Vĩnh Phúc;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Apartment;Nguyễn Tất Thành, Vĩnh Yên, Vĩnh Phúc;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.7;100
+Apartment;Nguyễn Tất Thành, Vĩnh Yên, Vĩnh Phúc;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Townhouse;Nguyễn Tất Thành, Vĩnh Yên, Vĩnh Phúc;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.0;100
+Townhouse;Nguyễn Tất Thành, Vĩnh Yên, Vĩnh Phúc;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;100
+Townhouse;Nguyễn Tất Thành, Vĩnh Yên, Vĩnh Phúc;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.2;100
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;0;78;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;0;68;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.04;85
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;0;60;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.7;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;0;76;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.72;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;0;66;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.04;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;0;80;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.98;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;0;70;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.55;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.12;85
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;75
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;0;55;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;75
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;0;74;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.72;85
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;0;64;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;0;56;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.04;85
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;0;76;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;0;66;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;75
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;75
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;0;70;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;0;60;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;0;52;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.12;62
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;0;68;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;0;58;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;0;50;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.93;58
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;52
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.83;52
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;0;48;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.73;52
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.69;65
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.43;65
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;0;54;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.17;65
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;0;68;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;0;58;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;0;50;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;0;70;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.69;65
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;0;60;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.43;65
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;0;52;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.17;65
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;0;48;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.87;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;0;64;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.16;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;0;54;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.93;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;0;46;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.81;58
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.94;52
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.78;52
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;44;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.62;52
+Apartment;Lê Duẩn, Hội An, Quảng Nam;0;70;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Lê Duẩn, Hội An, Quảng Nam;0;60;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.04;85
+Apartment;Lê Duẩn, Hội An, Quảng Nam;0;52;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.7;85
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.43;65
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.17;65
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;0;48;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.98;65
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;0;68;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.66;95
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;0;58;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.28;95
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;0;50;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.9;95
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.21;85
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.87;85
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;0;54;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.53;85
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;0;64;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.54;70
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;0;54;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.26;70
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;0;46;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.05;70
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;60;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.63;35
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;50;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.52;35
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.42;35
+Townhouse;Nguyễn Huệ, Q.1, TP.HCM;8;120;25;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;93.75;750
+Townhouse;Nguyễn Huệ, Q.1, TP.HCM;6;100;22;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;88.5;750
+Townhouse;Nguyễn Huệ, Q.1, TP.HCM;5;85;20;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;78.75;750
+Townhouse;Lê Lợi, Q.1, TP.HCM;7;110;24;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;88.5;750
+Townhouse;Lê Lợi, Q.1, TP.HCM;6;95;21;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;84.0;750
+Townhouse;Đồng Khởi, Q.1, TP.HCM;5;80;18;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;73.5;750
+Townhouse;Võ Văn Tần, Q.3, TP.HCM;7;105;23;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;70.2;650
+Townhouse;Võ Văn Tần, Q.3, TP.HCM;6;90;20;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;66.3;650
+Townhouse;Nguyễn Thị Minh Khai, Q.3, TP.HCM;5;75;17;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;57.2;650
+Townhouse;Trần Hưng Đạo, Q.5, TP.HCM;6;100;22;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;50.96;520
+Townhouse;Trần Hưng Đạo, Q.5, TP.HCM;5;85;19;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;47.84;520
+Townhouse;Nguyễn Trãi, Q.5, TP.HCM;4;70;16;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;40.56;520
+Townhouse;Nguyễn Hữu Thọ, Q.7, TP.HCM;6;95;21;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;40.8;480
+Townhouse;Nguyễn Hữu Thọ, Q.7, TP.HCM;5;80;18;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;37.44;480
+Townhouse;Nguyễn Hữu Thọ, Q.7, TP.HCM;4;65;15;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;31.2;480
+Townhouse;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;7;100;22;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;34.44;420
+Townhouse;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;6;85;19;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;31.5;420
+Townhouse;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;5;70;16;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;26.04;420
+Townhouse;Trần Duy Hưng, Cầu Giấy, Hà Nội;6;95;21;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;35.1;450
+Townhouse;Trần Duy Hưng, Cầu Giấy, Hà Nội;5;80;18;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;32.4;450
+Townhouse;Trần Duy Hưng, Cầu Giấy, Hà Nội;4;65;15;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;27.9;450
+Townhouse;Phạm Văn Đồng, Ba Đình, Hà Nội;7;105;23;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;53.9;550
+Townhouse;Phạm Văn Đồng, Ba Đình, Hà Nội;6;90;20;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;50.6;550
+Townhouse;Phạm Văn Đồng, Ba Đình, Hà Nội;5;75;17;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;46.75;550
+Townhouse;Đường Láng, Đống Đa, Hà Nội;6;90;20;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;42.24;480
+Townhouse;Đường Láng, Đống Đa, Hà Nội;5;75;17;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;39.36;480
+Townhouse;Đường Láng, Đống Đa, Hà Nội;4;60;14;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;36.0;480
+Townhouse;Lạc Long Quân, Tây Hồ, Hà Nội;7;100;22;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;35.7;420
+Townhouse;Lạc Long Quân, Tây Hồ, Hà Nội;6;85;19;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;32.76;420
+Townhouse;Lạc Long Quân, Tây Hồ, Hà Nội;5;70;16;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;30.24;420
+Townhouse;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;6;90;20;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;8.57;126
+Townhouse;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;5;75;17;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;7.81;126
+Townhouse;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;4;60;14;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;6.93;126
+Townhouse;Trần Phú, Thanh Khê, Đà Nẵng;5;80;18;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.89;95
+Townhouse;Trần Phú, Thanh Khê, Đà Nẵng;4;65;15;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.51;95
+Townhouse;Trần Phú, Thanh Khê, Đà Nẵng;3;50;12;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.94;95
+Townhouse;Lê Hồng Phong, Ngô Quyền, Hải Phòng;5;85;19;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.35;75
+Townhouse;Lê Hồng Phong, Ngô Quyền, Hải Phòng;4;70;16;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.9;75
+Townhouse;Lê Hồng Phong, Ngô Quyền, Hải Phòng;3;55;13;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.6;75
+Townhouse;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;6;90;20;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.08;85
+Townhouse;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;5;75;17;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.57;85
+Townhouse;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;4;60;14;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.23;85
+Townhouse;Phạm Văn Đồng, Biên Hòa, Đồng Nai;6;85;19;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.42;85
+Townhouse;Phạm Văn Đồng, Biên Hòa, Đồng Nai;5;70;16;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.08;85
+Townhouse;Phạm Văn Đồng, Biên Hòa, Đồng Nai;4;55;13;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.57;85
+Townhouse;Nguyễn Tất Thành, Vũng Tàu, BR-VT;7;95;21;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.93;85
+Townhouse;Nguyễn Tất Thành, Vũng Tàu, BR-VT;6;80;18;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.42;85
+Townhouse;Nguyễn Tất Thành, Vũng Tàu, BR-VT;5;65;15;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.08;85
+Townhouse;Trần Hưng Đạo, Huế, Thừa Thiên Huế;5;80;18;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.6;75
+Townhouse;Trần Hưng Đạo, Huế, Thừa Thiên Huế;4;65;15;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.15;75
+Townhouse;Trần Hưng Đạo, Huế, Thừa Thiên Huế;3;50;12;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.85;75
+Townhouse;Nguyễn Huệ, Nha Trang, Khánh Hòa;6;85;19;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.42;85
+Townhouse;Nguyễn Huệ, Nha Trang, Khánh Hòa;5;70;16;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.08;85
+Townhouse;Nguyễn Huệ, Nha Trang, Khánh Hòa;4;55;13;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.57;85
+Townhouse;Trần Phú, Đà Lạt, Lâm Đồng;6;90;20;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.6;75
+Townhouse;Trần Phú, Đà Lạt, Lâm Đồng;5;75;17;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.15;75
+Townhouse;Trần Phú, Đà Lạt, Lâm Đồng;4;60;14;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.85;75
+Townhouse;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;62
+Townhouse;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.36;62
+Townhouse;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.98;62
+Townhouse;Nguyễn Tất Thành, Pleiku, Gia Lai;5;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Townhouse;Nguyễn Tất Thành, Pleiku, Gia Lai;4;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Townhouse;Nguyễn Tất Thành, Pleiku, Gia Lai;3;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.62;58
+Townhouse;Trần Hưng Đạo, Kon Tum, Kon Tum;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.66;52
+Townhouse;Trần Hưng Đạo, Kon Tum, Kon Tum;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.46;52
+Townhouse;Trần Hưng Đạo, Kon Tum, Kon Tum;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.25;52
+Townhouse;Lê Duẩn, Quy Nhơn, Bình Định;5;80;18;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.73;65
+Townhouse;Lê Duẩn, Quy Nhơn, Bình Định;4;65;15;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.47;65
+Townhouse;Lê Duẩn, Quy Nhơn, Bình Định;3;50;12;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.08;65
+Townhouse;Nguyễn Huệ, Tuy Hòa, Phú Yên;5;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.36;62
+Townhouse;Nguyễn Huệ, Tuy Hòa, Phú Yên;4;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.98;62
+Townhouse;Nguyễn Huệ, Tuy Hòa, Phú Yên;3;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.74;62
+Townhouse;Trần Phú, Phan Thiết, Bình Thuận;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.73;65
+Townhouse;Trần Phú, Phan Thiết, Bình Thuận;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.47;65
+Townhouse;Trần Phú, Phan Thiết, Bình Thuận;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.08;65
+Townhouse;Lê Lợi, Phan Rang, Ninh Thuận;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Townhouse;Lê Lợi, Phan Rang, Ninh Thuận;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Townhouse;Lê Lợi, Phan Rang, Ninh Thuận;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.62;58
+Townhouse;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Townhouse;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.62;58
+Townhouse;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.39;58
+Townhouse;Trần Hưng Đạo, Đông Hà, Quảng Trị;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.46;52
+Townhouse;Trần Hưng Đạo, Đông Hà, Quảng Trị;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.25;52
+Townhouse;Trần Hưng Đạo, Đông Hà, Quảng Trị;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;52
+Townhouse;Lê Duẩn, Hội An, Quảng Nam;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.57;85
+Townhouse;Lê Duẩn, Hội An, Quảng Nam;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.23;85
+Townhouse;Lê Duẩn, Hội An, Quảng Nam;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.72;85
+Townhouse;Nguyễn Huệ, Tam Kỳ, Quảng Nam;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.47;65
+Townhouse;Nguyễn Huệ, Tam Kỳ, Quảng Nam;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.08;65
+Townhouse;Nguyễn Huệ, Tam Kỳ, Quảng Nam;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.82;65
+Townhouse;Trần Phú, Bắc Ninh, Bắc Ninh;5;75;17;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.99;95
+Townhouse;Trần Phú, Bắc Ninh, Bắc Ninh;4;60;14;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.61;95
+Townhouse;Trần Phú, Bắc Ninh, Bắc Ninh;3;45;11;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.04;95
+Townhouse;Lê Lợi, Hải Phòng, Hải Phòng;5;80;18;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.57;85
+Townhouse;Lê Lợi, Hải Phòng, Hải Phòng;4;65;15;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.23;85
+Townhouse;Lê Lợi, Hải Phòng, Hải Phòng;3;50;12;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.72;85
+Townhouse;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.66;70
+Townhouse;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.24;70
+Townhouse;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.96;70
+Townhouse;Trần Hưng Đạo, Bắc Giang, Bắc Giang;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.12;35
+Townhouse;Trần Hưng Đạo, Bắc Giang, Bắc Giang;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.98;35
+Townhouse;Trần Hưng Đạo, Bắc Giang, Bắc Giang;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.84;35
+Villa;Nguyễn Huệ, Q.1, TP.HCM;12;200;35;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;191.25;750
+Villa;Nguyễn Huệ, Q.1, TP.HCM;10;180;32;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;186.0;750
+Villa;Nguyễn Huệ, Q.1, TP.HCM;8;150;28;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;168.75;750
+Villa;Lê Lợi, Q.1, TP.HCM;11;190;34;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;186.0;750
+Villa;Lê Lợi, Q.1, TP.HCM;9;170;30;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;181.5;750
+Villa;Đồng Khởi, Q.1, TP.HCM;7;140;26;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;163.5;750
+Villa;Võ Văn Tần, Q.3, TP.HCM;10;185;33;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;148.2;650
+Villa;Võ Văn Tần, Q.3, TP.HCM;8;165;29;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;144.3;650
+Villa;Nguyễn Thị Minh Khai, Q.3, TP.HCM;6;135;25;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;128.7;650
+Villa;Trần Hưng Đạo, Q.5, TP.HCM;9;175;31;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;108.16;520
+Villa;Trần Hưng Đạo, Q.5, TP.HCM;7;155;27;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;105.04;520
+Villa;Nguyễn Trãi, Q.5, TP.HCM;5;125;23;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;92.56;520
+Villa;Nguyễn Hữu Thọ, Q.7, TP.HCM;8;170;30;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;88.8;480
+Villa;Nguyễn Hữu Thọ, Q.7, TP.HCM;6;150;26;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;85.44;480
+Villa;Nguyễn Hữu Thọ, Q.7, TP.HCM;4;120;22;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;74.4;480
+Villa;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;9;180;32;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;72.24;420
+Villa;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;7;160;28;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;69.3;420
+Villa;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;5;130;24;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;59.64;420
+Villa;Trần Duy Hưng, Cầu Giấy, Hà Nội;8;165;29;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;75.6;450
+Villa;Trần Duy Hưng, Cầu Giấy, Hà Nội;6;145;25;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;72.9;450
+Villa;Trần Duy Hưng, Cầu Giấy, Hà Nội;4;115;21;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;63.9;450
+Villa;Phạm Văn Đồng, Ba Đình, Hà Nội;10;185;33;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;108.9;550
+Villa;Phạm Văn Đồng, Ba Đình, Hà Nội;8;165;29;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;105.6;550
+Villa;Phạm Văn Đồng, Ba Đình, Hà Nội;6;135;25;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;96.25;550
+Villa;Đường Láng, Đống Đa, Hà Nội;8;170;30;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;90.24;480
+Villa;Đường Láng, Đống Đa, Hà Nội;6;150;26;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;87.36;480
+Villa;Đường Láng, Đống Đa, Hà Nội;4;120;22;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;79.2;480
+Villa;Lạc Long Quân, Tây Hồ, Hà Nội;9;175;31;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;73.5;420
+Villa;Lạc Long Quân, Tây Hồ, Hà Nội;7;155;27;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;70.56;420
+Villa;Lạc Long Quân, Tây Hồ, Hà Nội;5;125;23;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;63.84;420
+Villa;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;8;160;28;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;18.65;126
+Villa;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;6;140;24;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;17.89;126
+Villa;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;4;110;20;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;15.75;126
+Villa;Trần Phú, Thanh Khê, Đà Nẵng;7;150;26;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;12.54;95
+Villa;Trần Phú, Thanh Khê, Đà Nẵng;5;130;22;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;12.16;95
+Villa;Trần Phú, Thanh Khê, Đà Nẵng;3;100;18;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;10.64;95
+Villa;Lê Hồng Phong, Ngô Quyền, Hải Phòng;7;145;25;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;9.6;75
+Villa;Lê Hồng Phong, Ngô Quyền, Hải Phòng;5;125;21;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;9.15;75
+Villa;Lê Hồng Phong, Ngô Quyền, Hải Phòng;3;95;17;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;8.1;75
+Villa;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;8;155;27;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;9.18;85
+Villa;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;6;135;23;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;8.67;85
+Villa;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;4;105;19;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;7.48;85
+Villa;Phạm Văn Đồng, Biên Hòa, Đồng Nai;8;150;26;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;9.52;85
+Villa;Phạm Văn Đồng, Biên Hòa, Đồng Nai;6;130;22;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;9.18;85
+Villa;Phạm Văn Đồng, Biên Hòa, Đồng Nai;4;100;18;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;7.82;85
+Villa;Nguyễn Tất Thành, Vũng Tàu, BR-VT;9;165;29;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;10.88;85
+Villa;Nguyễn Tất Thành, Vũng Tàu, BR-VT;7;145;25;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;10.37;85
+Villa;Nguyễn Tất Thành, Vũng Tàu, BR-VT;5;115;21;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;9.18;85
+Villa;Trần Hưng Đạo, Huế, Thừa Thiên Huế;7;140;24;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;8.1;75
+Villa;Trần Hưng Đạo, Huế, Thừa Thiên Huế;5;120;20;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;7.65;75
+Villa;Trần Hưng Đạo, Huế, Thừa Thiên Huế;3;90;16;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;6.6;75
+Villa;Nguyễn Huệ, Nha Trang, Khánh Hòa;8;150;26;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;9.52;85
+Villa;Nguyễn Huệ, Nha Trang, Khánh Hòa;6;130;22;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;9.18;85
+Villa;Nguyễn Huệ, Nha Trang, Khánh Hòa;4;100;18;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;7.82;85
+Villa;Trần Phú, Đà Lạt, Lâm Đồng;8;155;27;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;8.1;75
+Villa;Trần Phú, Đà Lạt, Lâm Đồng;6;135;23;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;7.65;75
+Villa;Trần Phú, Đà Lạt, Lâm Đồng;4;105;19;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;6.6;75
+Villa;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;7;135;23;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.7;62
+Villa;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;5;115;19;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.46;62
+Villa;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;3;85;15;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.46;62
+Villa;Nguyễn Tất Thành, Pleiku, Gia Lai;7;130;22;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.1;58
+Villa;Nguyễn Tất Thành, Pleiku, Gia Lai;5;110;18;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.76;58
+Villa;Nguyễn Tất Thành, Pleiku, Gia Lai;3;80;14;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.94;58
+Villa;Trần Hưng Đạo, Kon Tum, Kon Tum;6;120;20;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.74;52
+Villa;Trần Hưng Đạo, Kon Tum, Kon Tum;4;100;16;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.54;52
+Villa;Trần Hưng Đạo, Kon Tum, Kon Tum;2;70;12;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.81;52
+Villa;Lê Duẩn, Quy Nhơn, Bình Định;7;145;25;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.98;65
+Villa;Lê Duẩn, Quy Nhơn, Bình Định;5;125;21;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.72;65
+Villa;Lê Duẩn, Quy Nhơn, Bình Định;3;95;17;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.68;65
+Villa;Nguyễn Huệ, Tuy Hòa, Phú Yên;7;130;22;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.46;62
+Villa;Nguyễn Huệ, Tuy Hòa, Phú Yên;5;110;18;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.08;62
+Villa;Nguyễn Huệ, Tuy Hòa, Phú Yên;3;80;14;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.22;62
+Villa;Trần Phú, Phan Thiết, Bình Thuận;7;140;24;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.98;65
+Villa;Trần Phú, Phan Thiết, Bình Thuận;5;120;20;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.72;65
+Villa;Trần Phú, Phan Thiết, Bình Thuận;3;90;16;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.68;65
+Villa;Lê Lợi, Phan Rang, Ninh Thuận;6;125;21;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.1;58
+Villa;Lê Lợi, Phan Rang, Ninh Thuận;4;105;17;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.76;58
+Villa;Lê Lợi, Phan Rang, Ninh Thuận;2;75;13;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.94;58
+Villa;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;6;115;19;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.18;58
+Villa;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;4;95;15;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.94;58
+Villa;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;2;65;11;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.13;58
+Villa;Trần Hưng Đạo, Đông Hà, Quảng Trị;5;105;17;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.54;52
+Villa;Trần Hưng Đạo, Đông Hà, Quảng Trị;3;85;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.33;52
+Villa;Trần Hưng Đạo, Đông Hà, Quảng Trị;1;55;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.6;52
+Villa;Lê Duẩn, Hội An, Quảng Nam;7;140;24;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;7.82;85
+Villa;Lê Duẩn, Hội An, Quảng Nam;5;120;20;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;7.48;85
+Villa;Lê Duẩn, Hội An, Quảng Nam;3;90;16;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;6.12;85
+Villa;Nguyễn Huệ, Tam Kỳ, Quảng Nam;6;125;21;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.72;65
+Villa;Nguyễn Huệ, Tam Kỳ, Quảng Nam;4;105;17;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.33;65
+Villa;Nguyễn Huệ, Tam Kỳ, Quảng Nam;2;75;13;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.42;65
+Villa;Trần Phú, Bắc Ninh, Bắc Ninh;5;135;23;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;8.74;95
+Villa;Trần Phú, Bắc Ninh, Bắc Ninh;4;115;19;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;8.36;95
+Villa;Trần Phú, Bắc Ninh, Bắc Ninh;3;85;15;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;6.84;95
+Villa;Lê Lợi, Hải Phòng, Hải Phòng;5;145;25;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;7.82;85
+Villa;Lê Lợi, Hải Phòng, Hải Phòng;4;125;21;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;7.48;85
+Villa;Lê Lợi, Hải Phòng, Hải Phòng;3;95;17;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;6.12;85
+Villa;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;4;125;21;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;6.16;70
+Villa;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;3;105;17;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.74;70
+Villa;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;2;75;13;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.76;70
+Villa;Trần Hưng Đạo, Bắc Giang, Bắc Giang;3;105;17;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.52;35
+Villa;Trần Hưng Đạo, Bắc Giang, Bắc Giang;2;85;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;35
+Villa;Trần Hưng Đạo, Bắc Giang, Bắc Giang;1;55;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.89;35
+Nha cap 4;Nguyễn Huệ, Q.1, TP.HCM;6;80;15;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;63.75;750
+Nha cap 4;Nguyễn Huệ, Q.1, TP.HCM;5;70;13;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;58.5;750
+Nha cap 4;Nguyễn Huệ, Q.1, TP.HCM;4;60;11;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;48.75;750
+Nha cap 4;Lê Lợi, Q.1, TP.HCM;6;75;14;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;61.5;750
+Nha cap 4;Lê Lợi, Q.1, TP.HCM;5;65;12;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;56.25;750
+Nha cap 4;Đồng Khởi, Q.1, TP.HCM;4;55;10;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;46.5;750
+Nha cap 4;Võ Văn Tần, Q.3, TP.HCM;5;70;13;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;46.8;650
+Nha cap 4;Võ Văn Tần, Q.3, TP.HCM;4;60;11;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;42.25;650
+Nha cap 4;Nguyễn Thị Minh Khai, Q.3, TP.HCM;3;50;9;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;37.7;650
+Nha cap 4;Trần Hưng Đạo, Q.5, TP.HCM;5;65;12;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;35.36;520
+Nha cap 4;Trần Hưng Đạo, Q.5, TP.HCM;4;55;10;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;32.24;520
+Nha cap 4;Nguyễn Trãi, Q.5, TP.HCM;3;45;8;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;28.6;520
+Nha cap 4;Nguyễn Hữu Thọ, Q.7, TP.HCM;5;60;11;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;27.84;480
+Nha cap 4;Nguyễn Hữu Thọ, Q.7, TP.HCM;4;50;9;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;24.96;480
+Nha cap 4;Nguyễn Hữu Thọ, Q.7, TP.HCM;3;40;7;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;21.6;480
+Nha cap 4;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;5;65;12;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.1;420
+Nha cap 4;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;4;55;10;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;20.16;420
+Nha cap 4;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;3;45;8;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;17.64;420
+Nha cap 4;Trần Duy Hưng, Cầu Giấy, Hà Nội;5;60;11;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.4;450
+Nha cap 4;Trần Duy Hưng, Cầu Giấy, Hà Nội;4;50;9;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;21.6;450
+Nha cap 4;Trần Duy Hưng, Cầu Giấy, Hà Nội;3;40;7;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;18.9;450
+Nha cap 4;Phạm Văn Đồng, Ba Đình, Hà Nội;6;70;13;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;37.4;550
+Nha cap 4;Phạm Văn Đồng, Ba Đình, Hà Nội;5;60;11;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;34.1;550
+Nha cap 4;Phạm Văn Đồng, Ba Đình, Hà Nội;4;50;9;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;30.25;550
+Nha cap 4;Đường Láng, Đống Đa, Hà Nội;5;65;12;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;27.84;480
+Nha cap 4;Đường Láng, Đống Đa, Hà Nội;4;55;10;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;24.96;480
+Nha cap 4;Đường Láng, Đống Đa, Hà Nội;3;45;8;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;21.6;480
+Nha cap 4;Lạc Long Quân, Tây Hồ, Hà Nội;5;60;11;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.1;420
+Nha cap 4;Lạc Long Quân, Tây Hồ, Hà Nội;4;50;9;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;20.16;420
+Nha cap 4;Lạc Long Quân, Tây Hồ, Hà Nội;3;40;7;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;17.64;420
+Nha cap 4;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;5;55;10;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.29;126
+Nha cap 4;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;4;45;8;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.79;126
+Nha cap 4;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;3;35;6;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.03;126
+Nha cap 4;Trần Phú, Thanh Khê, Đà Nẵng;4;50;9;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.61;95
+Nha cap 4;Trần Phú, Thanh Khê, Đà Nẵng;3;40;7;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.04;95
+Nha cap 4;Trần Phú, Thanh Khê, Đà Nẵng;2;30;5;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.66;95
+Nha cap 4;Lê Hồng Phong, Ngô Quyền, Hải Phòng;4;50;9;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;75
+Nha cap 4;Lê Hồng Phong, Ngô Quyền, Hải Phòng;3;40;7;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Nha cap 4;Lê Hồng Phong, Ngô Quyền, Hải Phòng;2;30;5;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;75
+Nha cap 4;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;4;55;10;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Nha cap 4;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;3;45;8;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.04;85
+Nha cap 4;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;2;35;6;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.7;85
+Nha cap 4;Phạm Văn Đồng, Biên Hòa, Đồng Nai;4;50;9;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.72;85
+Nha cap 4;Phạm Văn Đồng, Biên Hòa, Đồng Nai;3;40;7;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Nha cap 4;Phạm Văn Đồng, Biên Hòa, Đồng Nai;2;30;5;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.04;85
+Nha cap 4;Nguyễn Tất Thành, Vũng Tàu, BR-VT;5;55;10;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.98;85
+Nha cap 4;Nguyễn Tất Thành, Vũng Tàu, BR-VT;4;45;8;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.55;85
+Nha cap 4;Nguyễn Tất Thành, Vũng Tàu, BR-VT;3;35;6;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.12;85
+Nha cap 4;Trần Hưng Đạo, Huế, Thừa Thiên Huế;4;50;9;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Nha cap 4;Trần Hưng Đạo, Huế, Thừa Thiên Huế;3;40;7;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;75
+Nha cap 4;Trần Hưng Đạo, Huế, Thừa Thiên Huế;2;30;5;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;75
+Nha cap 4;Nguyễn Huệ, Nha Trang, Khánh Hòa;4;50;9;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.72;85
+Nha cap 4;Nguyễn Huệ, Nha Trang, Khánh Hòa;3;40;7;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Nha cap 4;Nguyễn Huệ, Nha Trang, Khánh Hòa;2;30;5;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.04;85
+Nha cap 4;Trần Phú, Đà Lạt, Lâm Đồng;4;55;10;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Nha cap 4;Trần Phú, Đà Lạt, Lâm Đồng;3;45;8;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;75
+Nha cap 4;Trần Phú, Đà Lạt, Lâm Đồng;2;35;6;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;75
+Nha cap 4;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;3;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Nha cap 4;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;2;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Nha cap 4;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;1;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.12;62
+Nha cap 4;Nguyễn Tất Thành, Pleiku, Gia Lai;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Nha cap 4;Nguyễn Tất Thành, Pleiku, Gia Lai;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Nha cap 4;Nguyễn Tất Thành, Pleiku, Gia Lai;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.93;58
+Nha cap 4;Trần Hưng Đạo, Kon Tum, Kon Tum;2;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.94;52
+Nha cap 4;Trần Hưng Đạo, Kon Tum, Kon Tum;1;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.83;52
+Nha cap 4;Trần Hưng Đạo, Kon Tum, Kon Tum;0;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.73;52
+Nha cap 4;Lê Duẩn, Quy Nhơn, Bình Định;3;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.56;65
+Nha cap 4;Lê Duẩn, Quy Nhơn, Bình Định;2;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.3;65
+Nha cap 4;Lê Duẩn, Quy Nhơn, Bình Định;1;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.17;65
+Nha cap 4;Nguyễn Huệ, Tuy Hòa, Phú Yên;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.36;62
+Nha cap 4;Nguyễn Huệ, Tuy Hòa, Phú Yên;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.12;62
+Nha cap 4;Nguyễn Huệ, Tuy Hòa, Phú Yên;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Nha cap 4;Trần Phú, Phan Thiết, Bình Thuận;3;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.56;65
+Nha cap 4;Trần Phú, Phan Thiết, Bình Thuận;2;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.3;65
+Nha cap 4;Trần Phú, Phan Thiết, Bình Thuận;1;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.17;65
+Nha cap 4;Lê Lợi, Phan Rang, Ninh Thuận;2;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Nha cap 4;Lê Lợi, Phan Rang, Ninh Thuận;1;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Nha cap 4;Lê Lợi, Phan Rang, Ninh Thuận;0;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.93;58
+Nha cap 4;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;2;30;5;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Nha cap 4;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;1;20;3;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.93;58
+Nha cap 4;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;0;10;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.81;58
+Nha cap 4;Trần Hưng Đạo, Đông Hà, Quảng Trị;1;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.83;52
+Nha cap 4;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.73;52
+Nha cap 4;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.62;52
+Nha cap 4;Lê Duẩn, Hội An, Quảng Nam;3;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.04;85
+Nha cap 4;Lê Duẩn, Hội An, Quảng Nam;2;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.7;85
+Nha cap 4;Lê Duẩn, Hội An, Quảng Nam;1;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.53;85
+Nha cap 4;Nguyễn Huệ, Tam Kỳ, Quảng Nam;2;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.43;65
+Nha cap 4;Nguyễn Huệ, Tam Kỳ, Quảng Nam;1;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.17;65
+Nha cap 4;Nguyễn Huệ, Tam Kỳ, Quảng Nam;0;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;65
+Nha cap 4;Trần Phú, Bắc Ninh, Bắc Ninh;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.28;95
+Nha cap 4;Trần Phú, Bắc Ninh, Bắc Ninh;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.9;95
+Nha cap 4;Trần Phú, Bắc Ninh, Bắc Ninh;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.71;95
+Nha cap 4;Lê Lợi, Hải Phòng, Hải Phòng;3;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.04;85
+Nha cap 4;Lê Lợi, Hải Phòng, Hải Phòng;2;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.7;85
+Nha cap 4;Lê Lợi, Hải Phòng, Hải Phòng;1;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.53;85
+Nha cap 4;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;2;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.54;70
+Nha cap 4;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;1;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.26;70
+Nha cap 4;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;0;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.12;70
+Nha cap 4;Trần Hưng Đạo, Bắc Giang, Bắc Giang;1;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.63;35
+Nha cap 4;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.56;35
+Nha cap 4;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.49;35
+Apartment;Trần Phú, Thái Nguyên, Thái Nguyên;0;65;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Apartment;Trần Phú, Thái Nguyên, Thái Nguyên;0;55;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Apartment;Trần Phú, Thái Nguyên, Thái Nguyên;0;45;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;100
+Townhouse;Trần Phú, Thái Nguyên, Thái Nguyên;4;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Townhouse;Trần Phú, Thái Nguyên, Thái Nguyên;3;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Townhouse;Trần Phú, Thái Nguyên, Thái Nguyên;2;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Villa;Trần Phú, Thái Nguyên, Thái Nguyên;5;80;18;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.2;100
+Villa;Trần Phú, Thái Nguyên, Thái Nguyên;4;65;15;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Trần Phú, Thái Nguyên, Thái Nguyên;3;50;12;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.2;100
+Nha cap 4;Trần Phú, Thái Nguyên, Thái Nguyên;3;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Nha cap 4;Trần Phú, Thái Nguyên, Thái Nguyên;2;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Nha cap 4;Trần Phú, Thái Nguyên, Thái Nguyên;1;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;100
+Apartment;Lê Lợi, Việt Trì, Phú Thọ;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Apartment;Lê Lợi, Việt Trì, Phú Thọ;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.5;100
+Apartment;Lê Lợi, Việt Trì, Phú Thọ;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.2;100
+Townhouse;Lê Lợi, Việt Trì, Phú Thọ;3;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Townhouse;Lê Lợi, Việt Trì, Phú Thọ;2;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Townhouse;Lê Lợi, Việt Trì, Phú Thọ;1;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Villa;Lê Lợi, Việt Trì, Phú Thọ;4;70;16;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Lê Lợi, Việt Trì, Phú Thọ;3;55;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Lê Lợi, Việt Trì, Phú Thọ;2;40;10;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.8;100
+Nha cap 4;Lê Lợi, Việt Trì, Phú Thọ;2;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Nha cap 4;Lê Lợi, Việt Trì, Phú Thọ;1;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Lê Lợi, Việt Trì, Phú Thọ;0;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Apartment;Nguyễn Huệ, Lào Cai, Lào Cai;0;60;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Apartment;Nguyễn Huệ, Lào Cai, Lào Cai;0;50;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.3;100
+Apartment;Nguyễn Huệ, Lào Cai, Lào Cai;0;40;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Nguyễn Huệ, Lào Cai, Lào Cai;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Townhouse;Nguyễn Huệ, Lào Cai, Lào Cai;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Townhouse;Nguyễn Huệ, Lào Cai, Lào Cai;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Villa;Nguyễn Huệ, Lào Cai, Lào Cai;4;65;15;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Nguyễn Huệ, Lào Cai, Lào Cai;3;50;12;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Nguyễn Huệ, Lào Cai, Lào Cai;2;35;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Nha cap 4;Nguyễn Huệ, Lào Cai, Lào Cai;2;30;5;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Nguyễn Huệ, Lào Cai, Lào Cai;1;20;3;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Nha cap 4;Nguyễn Huệ, Lào Cai, Lào Cai;0;10;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.2;100
+Apartment;Trần Hưng Đạo, Yên Bái, Yên Bái;0;58;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Apartment;Trần Hưng Đạo, Yên Bái, Yên Bái;0;48;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Apartment;Trần Hưng Đạo, Yên Bái, Yên Bái;0;38;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Trần Hưng Đạo, Yên Bái, Yên Bái;2;50;12;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Townhouse;Trần Hưng Đạo, Yên Bái, Yên Bái;1;35;9;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Trần Hưng Đạo, Yên Bái, Yên Bái;0;20;6;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Villa;Trần Hưng Đạo, Yên Bái, Yên Bái;3;60;14;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Trần Hưng Đạo, Yên Bái, Yên Bái;2;45;11;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Trần Hưng Đạo, Yên Bái, Yên Bái;1;30;8;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Nha cap 4;Trần Hưng Đạo, Yên Bái, Yên Bái;1;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Trần Hưng Đạo, Yên Bái, Yên Bái;0;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Trần Hưng Đạo, Yên Bái, Yên Bái;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Apartment;Lê Duẩn, Thanh Hóa, Thanh Hóa;0;64;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Apartment;Lê Duẩn, Thanh Hóa, Thanh Hóa;0;54;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Apartment;Lê Duẩn, Thanh Hóa, Thanh Hóa;0;44;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Townhouse;Lê Duẩn, Thanh Hóa, Thanh Hóa;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Townhouse;Lê Duẩn, Thanh Hóa, Thanh Hóa;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Townhouse;Lê Duẩn, Thanh Hóa, Thanh Hóa;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Villa;Lê Duẩn, Thanh Hóa, Thanh Hóa;5;75;17;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Villa;Lê Duẩn, Thanh Hóa, Thanh Hóa;4;60;14;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Lê Duẩn, Thanh Hóa, Thanh Hóa;3;45;11;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.8;100
+Nha cap 4;Lê Duẩn, Thanh Hóa, Thanh Hóa;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Nha cap 4;Lê Duẩn, Thanh Hóa, Thanh Hóa;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Lê Duẩn, Thanh Hóa, Thanh Hóa;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Apartment;Nguyễn Tất Thành, Vinh, Nghệ An;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.06;48
+Apartment;Nguyễn Tất Thành, Vinh, Nghệ An;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.86;48
+Apartment;Nguyễn Tất Thành, Vinh, Nghệ An;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.67;48
+Townhouse;Nguyễn Tất Thành, Vinh, Nghệ An;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.44;48
+Townhouse;Nguyễn Tất Thành, Vinh, Nghệ An;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.25;48
+Townhouse;Nguyễn Tất Thành, Vinh, Nghệ An;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.06;48
+Villa;Nguyễn Tất Thành, Vinh, Nghệ An;5;70;16;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.73;48
+Villa;Nguyễn Tất Thành, Vinh, Nghệ An;4;55;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.44;48
+Villa;Nguyễn Tất Thành, Vinh, Nghệ An;3;40;10;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.25;48
+Nha cap 4;Nguyễn Tất Thành, Vinh, Nghệ An;3;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.96;48
+Nha cap 4;Nguyễn Tất Thành, Vinh, Nghệ An;2;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.77;48
+Nha cap 4;Nguyễn Tất Thành, Vinh, Nghệ An;1;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.67;48
+Apartment;Trần Phú, Đồng Hới, Quảng Bình;0;60;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Apartment;Trần Phú, Đồng Hới, Quảng Bình;0;50;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.87;58
+Apartment;Trần Phú, Đồng Hới, Quảng Bình;0;40;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.7;58
+Townhouse;Trần Phú, Đồng Hới, Quảng Bình;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.51;58
+Townhouse;Trần Phú, Đồng Hới, Quảng Bình;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Townhouse;Trần Phú, Đồng Hới, Quảng Bình;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;58
+Villa;Trần Phú, Đồng Hới, Quảng Bình;4;65;15;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.86;58
+Villa;Trần Phú, Đồng Hới, Quảng Bình;3;50;12;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.62;58
+Villa;Trần Phú, Đồng Hới, Quảng Bình;2;35;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.39;58
+Nha cap 4;Trần Phú, Đồng Hới, Quảng Bình;2;30;5;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Nha cap 4;Trần Phú, Đồng Hới, Quảng Bình;1;20;3;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.93;58
+Nha cap 4;Trần Phú, Đồng Hới, Quảng Bình;0;10;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.81;58
+Apartment;Lê Lợi, Đắk Nông, Đắk Nông;0;58;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Apartment;Lê Lợi, Đắk Nông, Đắk Nông;0;48;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.3;100
+Apartment;Lê Lợi, Đắk Nông, Đắk Nông;0;38;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Lê Lợi, Đắk Nông, Đắk Nông;3;50;12;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Townhouse;Lê Lợi, Đắk Nông, Đắk Nông;2;35;9;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Lê Lợi, Đắk Nông, Đắk Nông;1;20;6;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Villa;Lê Lợi, Đắk Nông, Đắk Nông;4;60;14;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Lê Lợi, Đắk Nông, Đắk Nông;3;45;11;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Lê Lợi, Đắk Nông, Đắk Nông;2;30;8;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Nha cap 4;Lê Lợi, Đắk Nông, Đắk Nông;2;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Lê Lợi, Đắk Nông, Đắk Nông;1;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Lê Lợi, Đắk Nông, Đắk Nông;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Apartment;Nguyễn Huệ, Cần Thơ, Cần Thơ;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Apartment;Nguyễn Huệ, Cần Thơ, Cần Thơ;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Apartment;Nguyễn Huệ, Cần Thơ, Cần Thơ;0;46;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Townhouse;Nguyễn Huệ, Cần Thơ, Cần Thơ;5;70;16;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.2;100
+Townhouse;Nguyễn Huệ, Cần Thơ, Cần Thơ;4;55;13;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.8;100
+Townhouse;Nguyễn Huệ, Cần Thơ, Cần Thơ;3;40;10;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.2;100
+Villa;Nguyễn Huệ, Cần Thơ, Cần Thơ;6;80;18;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.8;100
+Villa;Nguyễn Huệ, Cần Thơ, Cần Thơ;5;65;15;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.2;100
+Villa;Nguyễn Huệ, Cần Thơ, Cần Thơ;4;50;12;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;3.8;100
+Nha cap 4;Nguyễn Huệ, Cần Thơ, Cần Thơ;4;45;8;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Nha cap 4;Nguyễn Huệ, Cần Thơ, Cần Thơ;3;35;6;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Nha cap 4;Nguyễn Huệ, Cần Thơ, Cần Thơ;2;25;4;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.0;100
+Apartment;Trần Hưng Đạo, Long Xuyên, An Giang;0;64;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.51;58
+Apartment;Trần Hưng Đạo, Long Xuyên, An Giang;0;54;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Apartment;Trần Hưng Đạo, Long Xuyên, An Giang;0;44;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;58
+Townhouse;Trần Hưng Đạo, Long Xuyên, An Giang;4;65;15;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Townhouse;Trần Hưng Đạo, Long Xuyên, An Giang;3;50;12;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.97;58
+Townhouse;Trần Hưng Đạo, Long Xuyên, An Giang;2;35;9;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.62;58
+Villa;Trần Hưng Đạo, Long Xuyên, An Giang;5;75;17;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.55;58
+Villa;Trần Hưng Đạo, Long Xuyên, An Giang;4;60;14;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;58
+Villa;Trần Hưng Đạo, Long Xuyên, An Giang;3;45;11;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.86;58
+Nha cap 4;Trần Hưng Đạo, Long Xuyên, An Giang;3;40;7;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.51;58
+Nha cap 4;Trần Hưng Đạo, Long Xuyên, An Giang;2;30;5;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Nha cap 4;Trần Hưng Đạo, Long Xuyên, An Giang;1;20;3;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.04;58
+Apartment;Lê Duẩn, Rạch Giá, Kiên Giang;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Apartment;Lê Duẩn, Rạch Giá, Kiên Giang;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Apartment;Lê Duẩn, Rạch Giá, Kiên Giang;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Townhouse;Lê Duẩn, Rạch Giá, Kiên Giang;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.23;62
+Townhouse;Lê Duẩn, Rạch Giá, Kiên Giang;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.98;62
+Townhouse;Lê Duẩn, Rạch Giá, Kiên Giang;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.61;62
+Villa;Lê Duẩn, Rạch Giá, Kiên Giang;5;70;16;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;62
+Villa;Lê Duẩn, Rạch Giá, Kiên Giang;4;55;13;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.23;62
+Villa;Lê Duẩn, Rạch Giá, Kiên Giang;3;40;10;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.86;62
+Nha cap 4;Lê Duẩn, Rạch Giá, Kiên Giang;3;35;6;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Nha cap 4;Lê Duẩn, Rạch Giá, Kiên Giang;2;25;4;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Nha cap 4;Lê Duẩn, Rạch Giá, Kiên Giang;1;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Apartment;Nguyễn Huệ, Hà Giang, Hà Giang;0;56;12;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Apartment;Nguyễn Huệ, Hà Giang, Hà Giang;0;46;10;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.0;100
+Apartment;Nguyễn Huệ, Hà Giang, Hà Giang;0;36;8;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.8;100
+Townhouse;Nguyễn Huệ, Hà Giang, Hà Giang;2;45;11;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Nguyễn Huệ, Hà Giang, Hà Giang;1;30;8;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Townhouse;Nguyễn Huệ, Hà Giang, Hà Giang;0;15;5;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Villa;Nguyễn Huệ, Hà Giang, Hà Giang;3;55;13;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Nguyễn Huệ, Hà Giang, Hà Giang;2;40;10;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Villa;Nguyễn Huệ, Hà Giang, Hà Giang;1;25;7;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Nha cap 4;Nguyễn Huệ, Hà Giang, Hà Giang;1;20;3;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Nguyễn Huệ, Hà Giang, Hà Giang;0;10;1;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.8;100
+Nha cap 4;Nguyễn Huệ, Hà Giang, Hà Giang;0;0;0;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.6;100
+Apartment;Trần Phú, Cao Bằng, Cao Bằng;0;54;12;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.0;100
+Apartment;Trần Phú, Cao Bằng, Cao Bằng;0;44;10;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.8;100
+Apartment;Trần Phú, Cao Bằng, Cao Bằng;0;34;8;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.6;100
+Townhouse;Trần Phú, Cao Bằng, Cao Bằng;2;40;10;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Townhouse;Trần Phú, Cao Bằng, Cao Bằng;1;25;7;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Townhouse;Trần Phú, Cao Bằng, Cao Bằng;0;10;4;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.8;100
+Villa;Trần Phú, Cao Bằng, Cao Bằng;3;50;12;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Villa;Trần Phú, Cao Bằng, Cao Bằng;2;35;9;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Villa;Trần Phú, Cao Bằng, Cao Bằng;1;20;6;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.2;100
+Nha cap 4;Trần Phú, Cao Bằng, Cao Bằng;1;15;2;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.0;100
+Nha cap 4;Trần Phú, Cao Bằng, Cao Bằng;0;5;1;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.6;100
+Nha cap 4;Trần Phú, Cao Bằng, Cao Bằng;0;0;0;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.4;100
+Apartment;Lê Lợi, Lạng Sơn, Lạng Sơn;0;56;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Apartment;Lê Lợi, Lạng Sơn, Lạng Sơn;0;46;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.0;100
+Apartment;Lê Lợi, Lạng Sơn, Lạng Sơn;0;36;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.8;100
+Townhouse;Lê Lợi, Lạng Sơn, Lạng Sơn;3;45;11;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Townhouse;Lê Lợi, Lạng Sơn, Lạng Sơn;2;30;8;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.4;100
+Townhouse;Lê Lợi, Lạng Sơn, Lạng Sơn;1;15;5;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Villa;Lê Lợi, Lạng Sơn, Lạng Sơn;4;55;13;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Villa;Lê Lợi, Lạng Sơn, Lạng Sơn;3;40;10;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Villa;Lê Lợi, Lạng Sơn, Lạng Sơn;2;25;7;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Nha cap 4;Lê Lợi, Lạng Sơn, Lạng Sơn;2;20;3;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Lê Lợi, Lạng Sơn, Lạng Sơn;1;10;1;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.8;100
+Nha cap 4;Lê Lợi, Lạng Sơn, Lạng Sơn;0;0;0;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.6;100
+Apartment;Nguyễn Tất Thành, Nam Định, Nam Định;0;60;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Apartment;Nguyễn Tất Thành, Nam Định, Nam Định;0;50;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.5;100
+Apartment;Nguyễn Tất Thành, Nam Định, Nam Định;0;40;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.2;100
+Townhouse;Nguyễn Tất Thành, Nam Định, Nam Định;3;55;13;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;100
+Townhouse;Nguyễn Tất Thành, Nam Định, Nam Định;2;40;10;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.2;100
+Townhouse;Nguyễn Tất Thành, Nam Định, Nam Định;1;25;7;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;100
+Villa;Nguyễn Tất Thành, Nam Định, Nam Định;4;65;15;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.2;100
+Villa;Nguyễn Tất Thành, Nam Định, Nam Định;3;50;12;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.8;100
+Villa;Nguyễn Tất Thành, Nam Định, Nam Định;2;35;9;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.4;100
+Nha cap 4;Nguyễn Tất Thành, Nam Định, Nam Định;2;30;5;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;100
+Nha cap 4;Nguyễn Tất Thành, Nam Định, Nam Định;1;20;3;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Nguyễn Tất Thành, Nam Định, Nam Định;0;10;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Apartment;Trần Hưng Đạo, Thái Bình, Thái Bình;0;58;13;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Apartment;Trần Hưng Đạo, Thái Bình, Thái Bình;0;48;11;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.3;100
+Apartment;Trần Hưng Đạo, Thái Bình, Thái Bình;0;38;9;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Townhouse;Trần Hưng Đạo, Thái Bình, Thái Bình;3;50;12;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;100
+Townhouse;Trần Hưng Đạo, Thái Bình, Thái Bình;2;35;9;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Townhouse;Trần Hưng Đạo, Thái Bình, Thái Bình;1;20;6;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.6;100
+Villa;Trần Hưng Đạo, Thái Bình, Thái Bình;4;60;14;4;4;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.0;100
+Villa;Trần Hưng Đạo, Thái Bình, Thái Bình;3;45;11;4;4;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;100
+Villa;Trần Hưng Đạo, Thái Bình, Thái Bình;2;30;8;4;4;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.2;100
+Nha cap 4;Trần Hưng Đạo, Thái Bình, Thái Bình;2;25;4;1;1;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.6;100
+Nha cap 4;Trần Hưng Đạo, Thái Bình, Thái Bình;1;15;2;1;1;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.2;100
+Nha cap 4;Trần Hưng Đạo, Thái Bình, Thái Bình;0;5;1;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.0;100
+Apartment;Lê Duẩn, Hải Dương, Hải Dương;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.0;100
+Apartment;Lê Duẩn, Hải Dương, Hải Dương;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.7;100
+Apartment;Lê Duẩn, Hải Dương, Hải Dương;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.4;100
+Townhouse;Lê Duẩn, Hải Dương, Hải Dương;4;60;14;3;3;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.0;100
+Townhouse;Lê Duẩn, Hải Dương, Hải Dương;3;45;11;3;3;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.6;100
+Townhouse;Lê Duẩn, Hải Dương, Hải Dương;2;30;8;3;3;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.2;100
+Nha cap 4;Lê Duẩn, Rạch Giá, Kiên Giang;1;15;2;1;1;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Apartment;Nguyễn Huệ, Q.1, TP.HCM;0;85;20;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;63.75;750
+Apartment;Nguyễn Huệ, Q.1, TP.HCM;0;75;18;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;58.5;750
+Apartment;Nguyễn Huệ, Q.1, TP.HCM;0;65;16;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;54.0;750
+Apartment;Lê Lợi, Q.1, TP.HCM;0;90;22;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;61.5;750
+Apartment;Lê Lợi, Q.1, TP.HCM;0;80;20;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;56.25;750
+Apartment;Đồng Khởi, Q.1, TP.HCM;0;70;18;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;51.0;750
+Apartment;Võ Văn Tần, Q.3, TP.HCM;0;82;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;46.8;650
+Apartment;Võ Văn Tần, Q.3, TP.HCM;0;72;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;42.25;650
+Apartment;Nguyễn Thị Minh Khai, Q.3, TP.HCM;0;68;16;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;37.7;650
+Apartment;Trần Hưng Đạo, Q.5, TP.HCM;0;78;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;35.36;520
+Apartment;Trần Hưng Đạo, Q.5, TP.HCM;0;68;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;32.24;520
+Apartment;Nguyễn Trãi, Q.5, TP.HCM;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;28.6;520
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;75;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;27.84;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;65;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;24.96;480
+Apartment;Nguyễn Hữu Thọ, Q.7, TP.HCM;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;21.6;480
+Apartment;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;0;80;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.1;420
+Apartment;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;0;70;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;20.16;420
+Apartment;Phạm Văn Đồng, Q.Thủ Đức, TP.HCM;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;17.64;420
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;78;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.4;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;68;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;21.6;450
+Apartment;Trần Duy Hưng, Cầu Giấy, Hà Nội;0;60;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;18.9;450
+Apartment;Phạm Văn Đồng, Ba Đình, Hà Nội;0;82;20;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;37.4;550
+Apartment;Phạm Văn Đồng, Ba Đình, Hà Nội;0;72;18;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;34.1;550
+Apartment;Phạm Văn Đồng, Ba Đình, Hà Nội;0;65;16;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;30.25;550
+Apartment;Đường Láng, Đống Đa, Hà Nội;0;75;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;27.84;480
+Apartment;Đường Láng, Đống Đa, Hà Nội;0;65;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;24.96;480
+Apartment;Đường Láng, Đống Đa, Hà Nội;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;21.6;480
+Apartment;Lạc Long Quân, Tây Hồ, Hà Nội;0;80;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;23.1;420
+Apartment;Lạc Long Quân, Tây Hồ, Hà Nội;0;70;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;20.16;420
+Apartment;Lạc Long Quân, Tây Hồ, Hà Nội;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;17.64;420
+Apartment;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;0;76;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;5.29;126
+Apartment;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;0;66;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;4.79;126
+Apartment;Nguyễn Văn Linh, Hải Châu, Đà Nẵng;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;4.03;126
+Apartment;Trần Phú, Thanh Khê, Đà Nẵng;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.61;95
+Apartment;Trần Phú, Thanh Khê, Đà Nẵng;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;3.04;95
+Apartment;Trần Phú, Thanh Khê, Đà Nẵng;0;55;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.66;95
+Apartment;Lê Hồng Phong, Ngô Quyền, Hải Phòng;0;74;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.4;75
+Apartment;Lê Hồng Phong, Ngô Quyền, Hải Phòng;0;64;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Apartment;Lê Hồng Phong, Ngô Quyền, Hải Phòng;0;56;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.8;75
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;0;78;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;0;68;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.04;85
+Apartment;Đại lộ Bình Dương, Thủ Dầu Một, Bình Dương;0;60;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.7;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;0;76;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.72;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;0;66;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Phạm Văn Đồng, Biên Hòa, Đồng Nai;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.04;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;0;80;19;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.98;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;0;70;17;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.55;85
+Apartment;Nguyễn Tất Thành, Vũng Tàu, BR-VT;0;62;15;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.12;85
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;75
+Apartment;Trần Hưng Đạo, Huế, Thừa Thiên Huế;0;55;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;75
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;0;74;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.72;85
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;0;64;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Nguyễn Huệ, Nha Trang, Khánh Hòa;0;56;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;2.04;85
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;0;76;18;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.1;75
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;0;66;16;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.8;75
+Apartment;Trần Phú, Đà Lạt, Lâm Đồng;0;58;14;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.5;75
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;0;70;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;0;60;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Apartment;Lê Lợi, Buôn Ma Thuột, Đắk Lắk;0;52;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.12;62
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;0;68;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;0;58;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Apartment;Nguyễn Tất Thành, Pleiku, Gia Lai;0;50;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.93;58
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;52
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.83;52
+Apartment;Trần Hưng Đạo, Kon Tum, Kon Tum;0;48;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.73;52
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.69;65
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.43;65
+Apartment;Lê Duẩn, Quy Nhơn, Bình Định;0;54;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.17;65
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;0;68;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.49;62
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;0;58;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.24;62
+Apartment;Nguyễn Huệ, Tuy Hòa, Phú Yên;0;50;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.99;62
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;0;70;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.69;65
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;0;60;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.43;65
+Apartment;Trần Phú, Phan Thiết, Bình Thuận;0;52;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.17;65
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.28;58
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.04;58
+Apartment;Lê Lợi, Phan Rang, Ninh Thuận;0;48;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.87;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;0;64;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.16;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;0;54;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.93;58
+Apartment;Nguyễn Tất Thành, Đồng Hới, Quảng Bình;0;46;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.81;58
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;62;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.94;52
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;52;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.78;52
+Apartment;Trần Hưng Đạo, Đông Hà, Quảng Trị;0;44;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.62;52
+Apartment;Lê Duẩn, Hội An, Quảng Nam;0;70;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.38;85
+Apartment;Lê Duẩn, Hội An, Quảng Nam;0;60;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.04;85
+Apartment;Lê Duẩn, Hội An, Quảng Nam;0;52;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.7;85
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;0;66;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.43;65
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;0;56;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.17;65
+Apartment;Nguyễn Huệ, Tam Kỳ, Quảng Nam;0;48;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.98;65
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;0;68;16;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.66;95
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;0;58;14;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.28;95
+Apartment;Trần Phú, Bắc Ninh, Bắc Ninh;0;50;12;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.9;95
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;0;72;17;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;2.21;85
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;0;62;15;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.87;85
+Apartment;Lê Lợi, Hải Phòng, Hải Phòng;0;54;13;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.53;85
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;0;64;15;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.54;70
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;0;54;13;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;1.26;70
+Apartment;Nguyễn Tất Thành, Hưng Yên, Hưng Yên;0;46;11;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;1.05;70
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;60;14;2;2;2023;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.63;35
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;50;12;2;2;2022;Đã có Sổ Hồng/Sổ Đỏ;Đường chính;0.52;35
+Apartment;Trần Hưng Đạo, Bắc Giang, Bắc Giang;0;42;10;2;2;2021;Đang chờ Sổ / Đang làm thủ tục cấp sổ;Đường nhánh;0.42;35
